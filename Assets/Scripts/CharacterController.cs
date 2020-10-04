@@ -11,6 +11,7 @@ public class CharacterController : MonoBehaviour{
     [Header("Var")]
     [SerializeField] public float Axis;
     [SerializeField] private float moveSpeed;
+    [SerializeField] private Vector3 RaycastOffsetPoint;
     
     [Header("Components")]
     [SerializeField] private Animator anim;
@@ -18,6 +19,8 @@ public class CharacterController : MonoBehaviour{
 
     [Header("State")]
     [SerializeField] private ActionType SetAction;
+
+    RaycastHit2D hit;
 
 
     public void Awake() {
@@ -27,10 +30,12 @@ public class CharacterController : MonoBehaviour{
 
     private void Start() {
         anim.SetFloat("walkSpeed",moveSpeed / 2.75f);
+        RaycastOffsetPoint = new Vector3(0.5f,0.4f,0);
     }
 
     private void Update() {
         InputUpdate();
+        Debug.DrawRay(transform.position + RaycastOffsetPoint,transform.right);
     }
 
     private void FixedUpdate() {
@@ -73,6 +78,7 @@ public class CharacterController : MonoBehaviour{
         }
     }
 
+
     private void Move() {
 
         RB.velocity = new Vector2(Axis * moveSpeed,RB.velocity.y);
@@ -81,18 +87,25 @@ public class CharacterController : MonoBehaviour{
 
     private void Right() {
         Axis = 1;
-        SpriteTransform.rotation = Quaternion.Euler(0,0,0);
-        
+        transform.rotation = Quaternion.Euler(0,0,0);
+        RaycastOffsetPoint = new Vector3(0.5f,0.4f,0);   
     }
 
     private void Left() {
         Axis = -1;
-        SpriteTransform.rotation = Quaternion.Euler(0,180,0);
+        transform.rotation = Quaternion.Euler(0,180,0);
+        RaycastOffsetPoint = new Vector3(-0.5f,0.4f,0);
     }
 
     public void GunShot() {
         StartCoroutine(Delay(2f));
         anim.SetTrigger("GunShot");
+        hit = Physics2D.Raycast(transform.position + RaycastOffsetPoint,transform.right, 5f);
+        Debug.DrawRay(transform.position,transform.right);
+        if(hit.transform.GetComponent<GuardScript>()!= null) {
+            hit.transform.GetComponent<GuardScript>().StartCoroutine("Dead");
+        }
+        Debug.Log(hit.transform.name);
     }
 
     public void Take() {
