@@ -8,15 +8,25 @@ public class CharacterController : MonoBehaviour{
 
     [SerializeField]private Transform SpriteTransform;
 
-    public Rigidbody2D RB;
-    public float Axis;
-    public float moveSpeed;
+    [Header("Var")]
+    [SerializeField] public float Axis;
+    [SerializeField] private float moveSpeed;
+    
+    [Header("Components")]
     [SerializeField] private Animator anim;
+    [SerializeField] private Rigidbody2D RB;
+
+    [Header("State")]
     [SerializeField] private ActionType SetAction;
 
 
     public void Awake() {
         Instance = this;
+        
+    }
+
+    private void Start() {
+        anim.SetFloat("walkSpeed",moveSpeed / 2.75f);
     }
 
     private void Update() {
@@ -25,7 +35,7 @@ public class CharacterController : MonoBehaviour{
 
     private void FixedUpdate() {
         
-                Move();
+        Move();
     }
 
 
