@@ -7,12 +7,12 @@ public class TimerAction : MonoBehaviour
     public float time = 0.0f;
     public float timeLimit = 0.0f;
     
-    public virtual void Run()
+    protected virtual void Run()
     {
         
     }
     
-    void Update()
+    private void Update()
     {
         time += Time.deltaTime;
 
