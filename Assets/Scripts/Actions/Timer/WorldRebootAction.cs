@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class WorldRebootAction : TimerAction
 {
-    public override void Run()
+    protected override void Run()
     {
         SceneManager.LoadScene("SampleScene");
     }
