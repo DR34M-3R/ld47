@@ -1,0 +1,1454 @@
+fileFormatVersion: 2
+guid: 32ecfea56ef218c45813859a8d9dd805
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4804763214392572031
+    second: boy_shot_0
+  - first:
+      213: 6039463636101626637
+    second: boy_shot_1
+  - first:
+      213: -4184014719958091053
+    second: boy_shot_2
+  - first:
+      213: -5461853624116346565
+    second: boy_shot_3
+  - first:
+      213: -7847919682571219289
+    second: boy_shot_4
+  - first:
+      213: -8429560249902482849
+    second: boy_shot_5
+  - first:
+      213: 6765493268030601088
+    second: boy_shot_6
+  - first:
+      213: -2711312879006091498
+    second: boy_shot_7
+  - first:
+      213: 3153229919045485050
+    second: boy_shot_8
+  - first:
+      213: -315824534150879234
+    second: boy_shot_9
+  - first:
+      213: 3602661461661829305
+    second: boy_shot_10
+  - first:
+      213: 1298483424288827551
+    second: boy_shot_11
+  - first:
+      213: -972878074535925687
+    second: boy_shot_12
+  - first:
+      213: 125924394289024050
+    second: boy_shot_13
+  - first:
+      213: -1830304188309742563
+    second: boy_shot_14
+  - first:
+      213: -1475586771914513679
+    second: boy_shot_15
+  - first:
+      213: -1245880080457202060
+    second: boy_shot_16
+  - first:
+      213: -5343039251369511920
+    second: boy_shot_17
+  - first:
+      213: -6025162395818848681
+    second: boy_shot_18
+  - first:
+      213: -355639757290935695
+    second: boy_shot_19
+  - first:
+      213: -108683491116333941
+    second: boy_shot_20
+  - first:
+      213: -3549977946608573453
+    second: boy_shot_21
+  - first:
+      213: -628586764016778947
+    second: boy_shot_22
+  - first:
+      213: 1216988164400494955
+    second: boy_shot_23
+  - first:
+      213: 2312281454122890360
+    second: boy_shot_24
+  - first:
+      213: 8436454767354205394
+    second: boy_shot_25
+  - first:
+      213: 3098614871428238095
+    second: boy_shot_26
+  - first:
+      213: 8055184394937724902
+    second: boy_shot_27
+  - first:
+      213: 671237913299208468
+    second: boy_shot_28
+  - first:
+      213: -5479910306836185021
+    second: boy_shot_29
+  - first:
+      213: 1831639826349817853
+    second: boy_shot_30
+  - first:
+      213: -8141159784998856351
+    second: boy_shot_31
+  - first:
+      213: -6055892811375386406
+    second: boy_shot_32
+  - first:
+      213: 4027203794563571858
+    second: boy_shot_33
+  - first:
+      213: 6739646935677914485
+    second: boy_shot_34
+  - first:
+      213: -1423002198471167842
+    second: boy_shot_35
+  - first:
+      213: -666849530599294683
+    second: boy_shot_36
+  - first:
+      213: -4969308844210091309
+    second: boy_shot_37
+  - first:
+      213: 4402681540921556690
+    second: boy_shot_38
+  - first:
+      213: 7205421049430029315
+    second: boy_shot_39
+  - first:
+      213: -2726135340006584794
+    second: boy_shot_40
+  - first:
+      213: 8735395849402816511
+    second: boy_shot_41
+  - first:
+      213: 3560353119039538401
+    second: boy_shot_42
+  - first:
+      213: -647027893075429119
+    second: boy_shot_43
+  - first:
+      213: -3753077336227173728
+    second: boy_shot_44
+  - first:
+      213: 4066348654095084928
+    second: boy_shot_45
+  - first:
+      213: 2033958653237321500
+    second: boy_shot_46
+  - first:
+      213: 5203736373644629833
+    second: boy_shot_47
+  - first:
+      213: -4788466771935447144
+    second: boy_shot_48
+  - first:
+      213: -6095316686758085731
+    second: boy_shot_49
+  - first:
+      213: 6218225289933858940
+    second: boy_shot_0
+  - first:
+      213: -2558352256822997130
+    second: boy_shot_1
+  - first:
+      213: 3639149761399871520
+    second: boy_shot_2
+  - first:
+      213: -2527783691265867802
+    second: boy_shot_3
+  - first:
+      213: 4957184923318803261
+    second: boy_shot_4
+  - first:
+      213: 6655341224874702181
+    second: boy_shot_5
+  - first:
+      213: 1690914160957740714
+    second: boy_shot_6
+  - first:
+      213: -7645266830565865987
+    second: boy_shot_7
+  - first:
+      213: 4129607777695893283
+    second: boy_shot_8
+  - first:
+      213: -1013357236950148347
+    second: boy_shot_9
+  - first:
+      213: -6866691460577918597
+    second: boy_shot_10
+  - first:
+      213: -6831083752354669623
+    second: boy_shot_11
+  - first:
+      213: 2272796194801136013
+    second: boy_shot_12
+  - first:
+      213: 7957615367235105428
+    second: boy_shot_13
+  - first:
+      213: -4345408289425897645
+    second: boy_shot_14
+  - first:
+      213: 7851498952650370301
+    second: boy_shot_15
+  - first:
+      213: -2806292900343223124
+    second: boy_shot_16
+  - first:
+      213: -6466878750140980755
+    second: boy_shot_17
+  - first:
+      213: -4410469931142246570
+    second: boy_shot_18
+  - first:
+      213: -6052919242814426908
+    second: boy_shot_19
+  - first:
+      213: 8762732637552493823
+    second: boy_shot_20
+  - first:
+      213: 7343775381708869089
+    second: boy_shot_21
+  - first:
+      213: -580949400239233587
+    second: boy_shot_22
+  - first:
+      213: 2302425564872496731
+    second: boy_shot_23
+  - first:
+      213: -6697721884983590665
+    second: boy_shot_24
+  - first:
+      213: -1345424453801203142
+    second: boy_shot_25
+  - first:
+      213: -3811227988692381783
+    second: boy_shot_26
+  - first:
+      213: 6765151435755826275
+    second: boy_shot_27
+  - first:
+      213: -4678486344162529861
+    second: boy_shot_28
+  - first:
+      213: -6258966743567607779
+    second: boy_shot_29
+  - first:
+      213: -9144967491766538822
+    second: boy_shot_30
+  - first:
+      213: -180412335225475673
+    second: boy_shot_31
+  - first:
+      213: -6407003460638264199
+    second: boy_shot_32
+  - first:
+      213: 1257824030006332858
+    second: boy_shot_33
+  - first:
+      213: -704023304693618982
+    second: boy_shot_34
+  - first:
+      213: 1848396694787932331
+    second: boy_shot_35
+  - first:
+      213: -4957305519502996502
+    second: boy_shot_36
+  - first:
+      213: 2597677076725319196
+    second: boy_shot_37
+  - first:
+      213: 1312201637011102538
+    second: boy_shot_38
+  - first:
+      213: -1014679702685978537
+    second: boy_shot_39
+  - first:
+      213: -4586664119117549906
+    second: boy_shot_40
+  - first:
+      213: 3972521332319882799
+    second: boy_shot_41
+  - first:
+      213: 1664837482599763600
+    second: boy_shot_42
+  - first:
+      213: 5132272981210410615
+    second: boy_shot_43
+  - first:
+      213: -3945573366407670807
+    second: boy_shot_44
+  - first:
+      213: -2291189808575780436
+    second: boy_shot_45
+  - first:
+      213: -5343016378162802353
+    second: boy_shot_46
+  - first:
+      213: -4487314497609269011
+    second: boy_shot_47
+  - first:
+      213: -3681473420051339801
+    second: boy_shot_48
+  - first:
+      213: -670432208717982269
+    second: boy_shot_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boy_shot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5328
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78abd3a4f29b4650800000000000000
+      internalID: 6218225289933858940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 5328
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0fb95d28ee7cd0800000000000000
+      internalID: -2558352256822997130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_2
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 5328
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028dfac4d6bd08230800000000000000
+      internalID: 3639149761399871520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_3
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 5328
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef721520228becd0800000000000000
+      internalID: -2527783691265867802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_4
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 5328
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bd6586c657bc440800000000000000
+      internalID: 4957184923318803261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4736
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5657baf15958c5c50800000000000000
+      internalID: 6655341224874702181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 4736
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa650957875577710800000000000000
+      internalID: 1690914160957740714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_7
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 4736
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58b0fe25e86e590800000000000000
+      internalID: -7645266830565865987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_8
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 4736
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327014be4605f4930800000000000000
+      internalID: 4129607777695893283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_9
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 4736
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd30546f4dfe1f0800000000000000
+      internalID: -1013357236950148347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4144
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b718b067f7c94b0a0800000000000000
+      internalID: -6866691460577918597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 4144
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb15f5158d1331a0800000000000000
+      internalID: -6831083752354669623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_12
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 4144
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d813bfde8189a8f10800000000000000
+      internalID: 2272796194801136013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_13
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 4144
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492fc37e3012f6e60800000000000000
+      internalID: 7957615367235105428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_14
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 4144
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574bb80f2202b3c0800000000000000
+      internalID: -4345408289425897645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3552
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca31bc2b026fc60800000000000000
+      internalID: 7851498952650370301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_16
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3552
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac675bb97b0e09d0800000000000000
+      internalID: -2806292900343223124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_17
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 3552
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1235c2a080146a0800000000000000
+      internalID: -6466878750140980755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_18
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 3552
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f89bd17fcdac2c0800000000000000
+      internalID: -4410469931142246570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_19
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 3552
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e07be5b406bffba0800000000000000
+      internalID: -6052919242814426908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2960
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4c90b28ea7b9970800000000000000
+      internalID: 8762732637552493823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_21
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2960
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed0409fcc45ae560800000000000000
+      internalID: 7343775381708869089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_22
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2960
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a346399d00f7f0800000000000000
+      internalID: -580949400239233587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_23
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 2960
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d00c3adbd3ff10800000000000000
+      internalID: 2302425564872496731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_24
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 2960
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f081318e69ec03a0800000000000000
+      internalID: -6697721884983590665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2368
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a2e0f6697145de0800000000000000
+      internalID: -1345424453801203142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_26
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2368
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc6f7465ccb1bc0800000000000000
+      internalID: -3811227988692381783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_27
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2368
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c23f33365a2ed50800000000000000
+      internalID: 6765151435755826275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_28
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 2368
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd2da9257da21fb0800000000000000
+      internalID: -4678486344162529861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_29
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 2368
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d185bac78eea329a0800000000000000
+      internalID: -6258966743567607779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1776
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abda2c2b48c861180800000000000000
+      internalID: -9144967491766538822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_31
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1776
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad69cddfeb0f7df0800000000000000
+      internalID: -180412335225475673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_32
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1776
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97435fd5c40c517a0800000000000000
+      internalID: -6407003460638264199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_33
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1776
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4a728a40b47110800000000000000
+      internalID: 1257824030006332858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_34
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1776
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6e322d88eca36f0800000000000000
+      internalID: -704023304693618982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba047dc2003d6a910800000000000000
+      internalID: 1848396694787932331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_36
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1184
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc0fa15ec143bb0800000000000000
+      internalID: -4957305519502996502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_37
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1184
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c164367c98dcc0420800000000000000
+      internalID: 2597677076725319196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_38
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1184
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b9bbfbf60e53210800000000000000
+      internalID: 1312201637011102538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_39
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1184
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507a98bf222be1f0800000000000000
+      internalID: -1014679702685978537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee7fbe845e850c0800000000000000
+      internalID: -4586664119117549906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_41
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 592
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e869bba1b312730800000000000000
+      internalID: 3972521332319882799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_42
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 592
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e4d17aed0ba1710800000000000000
+      internalID: 1664837482599763600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_43
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 592
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ea16f951f793740800000000000000
+      internalID: 5132272981210410615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_44
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 592
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e357048de18e39c0800000000000000
+      internalID: -3945573366407670807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca968d2220f0430e0800000000000000
+      internalID: -2291189808575780436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_46
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41138e99eac9d5b0800000000000000
+      internalID: -5343016378162802353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_47
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00a8e3d3bd9b1c0800000000000000
+      internalID: -4487314497609269011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_48
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 0
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e52cc30e67c8ecc0800000000000000
+      internalID: -3681473420051339801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_shot_49
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 0
+        width: 611
+        height: 592
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c55261557522b6f0800000000000000
+      internalID: -670432208717982269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

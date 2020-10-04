@@ -1,7 +1,370 @@
 fileFormatVersion: 2
 guid: 05603acf5c01bba4aa6425c85e153057
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7255204224554473159
+    second: boy_use_take_0
+  - first:
+      213: 2106384070258457015
+    second: boy_use_take_1
+  - first:
+      213: -3450916260614979694
+    second: boy_use_take_2
+  - first:
+      213: -1204144100445498177
+    second: boy_use_take_3
+  - first:
+      213: 7590963804521655743
+    second: boy_use_take_4
+  - first:
+      213: -2283015829361144245
+    second: boy_use_take_5
+  - first:
+      213: -2501873946602339453
+    second: boy_use_take_6
+  - first:
+      213: 5341816087312059427
+    second: boy_use_take_7
+  - first:
+      213: -3568663961363894521
+    second: boy_use_take_8
+  - first:
+      213: -3135907349654746357
+    second: boy_use_take_9
+  - first:
+      213: 7970024394959597537
+    second: boy_use_take_10
+  - first:
+      213: -2686059432100536092
+    second: boy_use_take_11
+  - first:
+      213: 3584334341411520659
+    second: boy_use_take_12
+  - first:
+      213: 522067752703720586
+    second: boy_use_take_13
+  - first:
+      213: 9062819227514616753
+    second: boy_use_take_14
+  - first:
+      213: 7036020764264808723
+    second: boy_use_take_15
+  - first:
+      213: -1524867485753399453
+    second: boy_use_take_16
+  - first:
+      213: -771088625473421913
+    second: boy_use_take_17
+  - first:
+      213: -592608232674937852
+    second: boy_use_take_18
+  - first:
+      213: 4437913885731315852
+    second: boy_use_take_19
+  - first:
+      213: -6814954336177295382
+    second: boy_use_take_20
+  - first:
+      213: -2960321237592367994
+    second: boy_use_take_21
+  - first:
+      213: 7510975083890622855
+    second: boy_use_take_22
+  - first:
+      213: 9181748065436867911
+    second: boy_use_take_23
+  - first:
+      213: -2778084654331368445
+    second: boy_use_take_24
+  - first:
+      213: 8060565008302598511
+    second: boy_use_take_25
+  - first:
+      213: -1170806081926747039
+    second: boy_use_take_26
+  - first:
+      213: 6170207245644212420
+    second: boy_use_take_27
+  - first:
+      213: 8789904763018786305
+    second: boy_use_take_28
+  - first:
+      213: 3412265283425673758
+    second: boy_use_take_29
+  - first:
+      213: 6863752647904302940
+    second: boy_use_take_30
+  - first:
+      213: -6072195560312281170
+    second: boy_use_take_31
+  - first:
+      213: -6945845891486977932
+    second: boy_use_take_32
+  - first:
+      213: -5808965494668042873
+    second: boy_use_take_33
+  - first:
+      213: -515258940814341926
+    second: boy_use_take_34
+  - first:
+      213: 3468483662822758798
+    second: boy_use_take_35
+  - first:
+      213: 2620857757157735794
+    second: boy_use_take_36
+  - first:
+      213: -8161961694413584581
+    second: boy_use_take_37
+  - first:
+      213: 6721628706445491324
+    second: boy_use_take_38
+  - first:
+      213: 4938159665530326257
+    second: boy_use_take_39
+  - first:
+      213: -1030374138069335922
+    second: boy_use_take_40
+  - first:
+      213: -6171283020809592575
+    second: boy_use_take_41
+  - first:
+      213: 4993356322576564416
+    second: boy_use_take_42
+  - first:
+      213: 2910211403125189363
+    second: boy_use_take_43
+  - first:
+      213: -3180532086063828014
+    second: boy_use_take_44
+  - first:
+      213: 8539030499276773981
+    second: boy_use_take_45
+  - first:
+      213: 1117550192921905184
+    second: boy_use_take_46
+  - first:
+      213: 2463165169952579533
+    second: boy_use_take_47
+  - first:
+      213: -7626648595770365149
+    second: boy_use_take_48
+  - first:
+      213: 4540519765899668121
+    second: boy_use_take_49
+  - first:
+      213: -3894660804479812704
+    second: boy_use_take_50
+  - first:
+      213: 2602789958289200778
+    second: boy_use_take_51
+  - first:
+      213: 1426262211111731968
+    second: boy_use_take_52
+  - first:
+      213: -1645518834114776326
+    second: boy_use_take_53
+  - first:
+      213: -2690631119815279784
+    second: boy_use_take_54
+  - first:
+      213: 873363612935471513
+    second: boy_use_take_55
+  - first:
+      213: 4282357010259145546
+    second: boy_use_take_56
+  - first:
+      213: 6002044386922364355
+    second: boy_use_take_57
+  - first:
+      213: 5196458239784146065
+    second: boy_use_take_58
+  - first:
+      213: 5348353306085706789
+    second: boy_use_take_59
+  - first:
+      213: -9034993856442217446
+    second: boy_use_take_60
+  - first:
+      213: -2367210996819140703
+    second: boy_use_take_0
+  - first:
+      213: 1589256010954534434
+    second: boy_use_take_1
+  - first:
+      213: 905651373101934185
+    second: boy_use_take_2
+  - first:
+      213: -6738367296097287877
+    second: boy_use_take_3
+  - first:
+      213: 607230352124262214
+    second: boy_use_take_4
+  - first:
+      213: 3358444632850203645
+    second: boy_use_take_5
+  - first:
+      213: 5265384508605225135
+    second: boy_use_take_6
+  - first:
+      213: -7076702106409312218
+    second: boy_use_take_7
+  - first:
+      213: 6472365492924257498
+    second: boy_use_take_8
+  - first:
+      213: 7464193496596430632
+    second: boy_use_take_9
+  - first:
+      213: -4368229427065272436
+    second: boy_use_take_10
+  - first:
+      213: 7687556789194362481
+    second: boy_use_take_11
+  - first:
+      213: -3133756861889729892
+    second: boy_use_take_12
+  - first:
+      213: -3180065577642320382
+    second: boy_use_take_13
+  - first:
+      213: 4328100448215169018
+    second: boy_use_take_14
+  - first:
+      213: 5297797811285103479
+    second: boy_use_take_15
+  - first:
+      213: -6603154457215553980
+    second: boy_use_take_16
+  - first:
+      213: -4081149198578515933
+    second: boy_use_take_17
+  - first:
+      213: 1292764362596624984
+    second: boy_use_take_18
+  - first:
+      213: 94319248285756552
+    second: boy_use_take_19
+  - first:
+      213: 4349523684131341579
+    second: boy_use_take_20
+  - first:
+      213: 5192575981487286599
+    second: boy_use_take_21
+  - first:
+      213: -3842003300125246041
+    second: boy_use_take_22
+  - first:
+      213: -6943070371870491624
+    second: boy_use_take_23
+  - first:
+      213: 5368672633111147422
+    second: boy_use_take_24
+  - first:
+      213: -619113013676792218
+    second: boy_use_take_25
+  - first:
+      213: 6298292499142203999
+    second: boy_use_take_26
+  - first:
+      213: -2628655388533818252
+    second: boy_use_take_27
+  - first:
+      213: -6161852848066124131
+    second: boy_use_take_28
+  - first:
+      213: 917878214859412220
+    second: boy_use_take_29
+  - first:
+      213: 3471948503770195502
+    second: boy_use_take_30
+  - first:
+      213: 1283340063683585515
+    second: boy_use_take_31
+  - first:
+      213: 901784721662239730
+    second: boy_use_take_32
+  - first:
+      213: 6311385370267800223
+    second: boy_use_take_33
+  - first:
+      213: 5226363363226409471
+    second: boy_use_take_34
+  - first:
+      213: -520456225701531934
+    second: boy_use_take_35
+  - first:
+      213: 2988292248253653487
+    second: boy_use_take_36
+  - first:
+      213: -5151153313347704167
+    second: boy_use_take_37
+  - first:
+      213: -1784706247713231
+    second: boy_use_take_38
+  - first:
+      213: 7663616742113006927
+    second: boy_use_take_39
+  - first:
+      213: 7092569464327011147
+    second: boy_use_take_40
+  - first:
+      213: 3707713855455367212
+    second: boy_use_take_41
+  - first:
+      213: -6493145816201214584
+    second: boy_use_take_42
+  - first:
+      213: 2801190371154037937
+    second: boy_use_take_43
+  - first:
+      213: 5381497035183142781
+    second: boy_use_take_44
+  - first:
+      213: 5874321360886621649
+    second: boy_use_take_45
+  - first:
+      213: 8944473323737206085
+    second: boy_use_take_46
+  - first:
+      213: -1650316126270802668
+    second: boy_use_take_47
+  - first:
+      213: -350374306649051931
+    second: boy_use_take_48
+  - first:
+      213: 4231955530099075185
+    second: boy_use_take_49
+  - first:
+      213: 5800580970036145057
+    second: boy_use_take_50
+  - first:
+      213: 1945832279420629383
+    second: boy_use_take_51
+  - first:
+      213: -4075063771305094644
+    second: boy_use_take_52
+  - first:
+      213: -5578620907767565652
+    second: boy_use_take_53
+  - first:
+      213: -8014878373261372612
+    second: boy_use_take_54
+  - first:
+      213: -4039758664242397966
+    second: boy_use_take_55
+  - first:
+      213: -8345455459513193827
+    second: boy_use_take_56
+  - first:
+      213: 3932839310642623934
+    second: boy_use_take_57
+  - first:
+      213: 2060590205533419320
+    second: boy_use_take_58
+  - first:
+      213: 4277956086830778101
+    second: boy_use_take_59
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -85,7 +448,1267 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: boy_use_take_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af5232f32af52fd0800000000000000
+      internalID: -2367210996819140703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6916fbeb2e0610800000000000000
+      internalID: 1589256010954534434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e5102025819c00800000000000000
+      internalID: 905651373101934185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_3
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31030645a28c72a0800000000000000
+      internalID: -6738367296097287877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_4
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647b33bb9c05d6800800000000000000
+      internalID: 607230352124262214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_5
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df38ada89979b9e20800000000000000
+      internalID: 3358444632850203645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_6
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa852493057621940800000000000000
+      internalID: 5265384508605225135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_7
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620e63e9de08acd90800000000000000
+      internalID: -7076702106409312218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_8
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41f3eaf1672d950800000000000000
+      internalID: 6472365492924257498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_9
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f396b2074269760800000000000000
+      internalID: 7464193496596430632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_10
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cd5eda7ee063c0800000000000000
+      internalID: -4368229427065272436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_11
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 2212
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e829a5b20bfaa60800000000000000
+      internalID: 7687556789194362481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aae9accb8a284d0800000000000000
+      internalID: -3133756861889729892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e9e22b4332ed3d0800000000000000
+      internalID: -3180065577642320382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f2182d60801c30800000000000000
+      internalID: 4328100448215169018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_15
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7739d795a0f858940800000000000000
+      internalID: 5297797811285103479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_16
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e21a49102ec54a0800000000000000
+      internalID: -6603154457215553980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_17
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3208b5f3d68dc57c0800000000000000
+      internalID: -4081149198578515933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_18
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a2bd2a652d0f110800000000000000
+      internalID: 1292764362596624984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_19
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ced894bd61f4100800000000000000
+      internalID: 94319248285756552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_20
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b050cc6febc9c5c30800000000000000
+      internalID: 4349523684131341579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_21
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74966cdf75cbf0840800000000000000
+      internalID: 5192575981487286599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_22
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf726ba567eaac0800000000000000
+      internalID: -3842003300125246041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_23
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1659
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cbe12684245af90800000000000000
+      internalID: -6943070371870491624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9373fbb05b518a40800000000000000
+      internalID: 5368672633111147422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66629f78ef77867f0800000000000000
+      internalID: -619113013676792218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_26
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ad0ee78a7086750800000000000000
+      internalID: 6298292499142203999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_27
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7681f9d3258bd0800000000000000
+      internalID: -2628655388533818252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_28
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d962ac84b73bc7aa0800000000000000
+      internalID: -6161852848066124131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_29
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d3cf8f55fcbc00800000000000000
+      internalID: 917878214859412220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_30
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26ebadd4c6de2030800000000000000
+      internalID: 3471948503770195502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_31
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be523ed0df65fc110800000000000000
+      internalID: 1283340063683585515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_32
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36d8e2d68c38c00800000000000000
+      internalID: 901784721662239730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_33
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d86b1e8b869750800000000000000
+      internalID: 6311385370267800223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_34
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9d934d9c5c78840800000000000000
+      internalID: 5226363363226409471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_35
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1106
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee6be9f1d7f6c8f0800000000000000
+      internalID: -520456225701531934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1663697fb887920800000000000000
+      internalID: 2988292248253653487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_37
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a655e7a5d6388b0800000000000000
+      internalID: -5151153313347704167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_38
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9312b1d8a9fff0800000000000000
+      internalID: -1784706247713231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_39
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d168c2d2aa5a60800000000000000
+      internalID: 7663616742113006927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_40
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b7ef9895edd6260800000000000000
+      internalID: 7092569464327011147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_41
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2016337b12747330800000000000000
+      internalID: 3707713855455367212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_42
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88543864846b3e5a0800000000000000
+      internalID: -6493145816201214584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_43
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc81ec1dc3dfd620800000000000000
+      internalID: 2801190371154037937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_44
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77b8e58a0beeaa40800000000000000
+      internalID: 5381497035183142781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_45
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e22c7728c58150800000000000000
+      internalID: 5874321360886621649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_46
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d405c1917212c70800000000000000
+      internalID: 8944473323737206085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_47
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 553
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b7861a36e819e0800000000000000
+      internalID: -1650316126270802668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec62c9ac68332bf0800000000000000
+      internalID: -350374306649051931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_49
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782eccf12deaba30800000000000000
+      internalID: 4231955530099075185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_50
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab25e1d8adcf7050800000000000000
+      internalID: 5800580970036145057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_51
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781fa5f062cf00b10800000000000000
+      internalID: 1945832279420629383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_52
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02db4237177277c0800000000000000
+      internalID: -4075063771305094644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_53
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca272f757d1c492b0800000000000000
+      internalID: -5578620907767565652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_54
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339bcb859e65c090800000000000000
+      internalID: -8014878373261372612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_55
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc768ff5e4efe7c0800000000000000
+      internalID: -4039758664242397966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_56
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a2fd6c97cfe2c80800000000000000
+      internalID: -8345455459513193827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_57
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5bb851480449630800000000000000
+      internalID: 3932839310642623934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_58
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f77cdfdfa89c10800000000000000
+      internalID: 2060590205533419320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_use_take_59
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 0
+        width: 378
+        height: 553
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c448356a5e5b30800000000000000
+      internalID: 4277956086830778101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

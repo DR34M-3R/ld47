@@ -12,38 +12,55 @@ public class CharacterController : MonoBehaviour{
     public float Axis;
     public float moveSpeed;
     [SerializeField] private Animator anim;
+    [SerializeField] private ActionType SetAction;
 
 
     public void Awake() {
         Instance = this;
     }
 
-    void Update()
-    {
-
-
-
-
-        if(Input.GetKeyDown(KeyCode.D))
-            Right();
-
-        if(Input.GetKeyDown(KeyCode.A))
-            Left();
-
-        if(!Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.D))
-            Axis = 0;
-
-        
+    private void Update() {
+        InputUpdate();
     }
 
     private void FixedUpdate() {
-        if(Axis != 0) {
-            
-            anim.SetBool("walk",true);
-        } else {
-            anim.SetBool("walk",false);
+        
+                Move();
+    }
+
+
+    private void InputUpdate() {
+
+        switch(SetAction) {
+
+            case ActionType.none:
+                if(Axis != 0) {
+
+                    anim.SetBool("walk",true);
+                } else {
+                    anim.SetBool("walk",false);
+                }
+
+                if(Input.GetKeyDown(KeyCode.D))
+                    Right();
+
+                if(Input.GetKeyDown(KeyCode.A))
+                    Left();
+
+                if(!Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.D))
+                    Axis = 0;
+
+                if(Input.GetKeyDown(KeyCode.E))
+                    Take();
+
+                if(Input.GetKeyDown(KeyCode.R))
+                    GunShot();
+
+                break;
+            case ActionType.action:
+                Axis = 0;
+                break;
         }
-        Move();
     }
 
     private void Move() {
@@ -62,4 +79,25 @@ public class CharacterController : MonoBehaviour{
         Axis = -1;
         SpriteTransform.rotation = Quaternion.Euler(0,180,0);
     }
+
+    public void GunShot() {
+        StartCoroutine(Delay(2f));
+        anim.SetTrigger("GunShot");
+    }
+
+    public void Take() {
+        StartCoroutine(Delay(1.7f));
+        anim.SetTrigger("Take");
+    }
+
+    IEnumerator Delay(float delayTime) {
+        SetAction = ActionType.action;
+        yield return new WaitForSeconds(delayTime);
+        SetAction = ActionType.none;
+    }
+}
+
+public enum ActionType{
+    none,
+    action
 }
