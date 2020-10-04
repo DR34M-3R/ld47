@@ -14,6 +14,7 @@ public class Item
 
 public enum ItemType {
     key,
-    bettary,
+    battery,
     gun,
+    lens
 }
