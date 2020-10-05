@@ -1,0 +1,28 @@
+{
+  "data": {
+    "projector_needs_battery_and_lens":{
+      "ru": "Хм, похоже что тут нужна линза и батарейка...",
+      "en": "Hmm, looks like it needs a lens and a battery ..."
+    },
+    "projector_needs_battery":{
+      "ru": "Линза на месте, давай искать батарейку.",
+      "en": "So lens is here, let's look for the battery."
+    },
+    "projector_needs_lens":{
+      "ru": "Батарейку мы нашли, но где линза?",
+      "en": "We've found the battery, but where is the lens?"
+    },
+    "projector_turned_on":{
+      "ru": "Работает!",
+      "en": "It works!"
+    },
+    "safe_closed":{
+      "ru": "Закрыто. Нужен код.",
+      "en": "Closed. Needs code."
+    },
+    "safe_opened": {
+      "ru": "Код подошел! Открыто!",
+      "en": "That's it! Opened!"
+    }
+  }
+}

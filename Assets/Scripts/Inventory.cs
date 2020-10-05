@@ -11,37 +11,50 @@ public class Inventory : MonoBehaviour
     [SerializeField] private List<Item> Items = new List<Item>();
     [SerializeField] private List<Image> Cells = new List<Image>();
 
-    public void Awake() {
+    public void Awake()
+    {
         Instance = this;
     }
 
-    public void AddItem(ItemType type) {
-        foreach(Item setItem in ItemList) {
-            if(setItem.Type == type) {
+    public void AddItem(ItemType type)
+    {
+        foreach (Item setItem in ItemList)
+        {
+            if (setItem.Type == type)
+            {
                 Items.Add(setItem);
             }
         }
+
         CellUpdate();
     }
 
-    public void RemoveItem(ItemType type) {
-        for(int i = 0; i < Items.Count; i++) {
-            if(Items[i].Type == type) {
+    public bool RemoveItem(ItemType type)
+    {
+        for (var i = 0; i < Items.Count; i++)
+        {
+            if (Items[i].Type == type)
+            {
                 Items.RemoveAt(i);
+                CellUpdate();
+                return true;
             }
         }
-        CellUpdate();
+
+        return false;
     }
 
-    public void CellUpdate() {
-        for(int i = 0; i < Cells.Count; i++) {
-            Cells[i].sprite = null;
+    private void CellUpdate()
+    {
+        foreach (var cell in Cells)
+        {
+            cell.sprite = null;
         }
-        for(int i = 0; i < Items.Count; i++) {
+
+        for (var i = 0; i < Items.Count; i++)
+        {
             Cells[i].sprite = Items[i].Sprite;
             Cells[i].SetNativeSize();
         }
     }
-
-    
 }

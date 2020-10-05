@@ -5,6 +5,6 @@ public class WorldRebootAction : TimerAction
 {
     protected override void Run()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

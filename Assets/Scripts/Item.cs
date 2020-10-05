@@ -16,5 +16,6 @@ public enum ItemType {
     key,
     battery,
     gun,
-    lens
+    lens,
+    safeCode
 }

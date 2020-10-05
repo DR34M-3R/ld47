@@ -66,6 +66,11 @@ public class CharacterController : MonoBehaviour
 
                 if (Input.GetKeyDown(KeyCode.R))
                     GunShot();
+                
+                if (Input.GetKeyUp(KeyCode.T))
+                {
+                    SubtitlesController.Instance.Show(Loc.Get("projector_needs_battery_and_lens"));
+                }
 
                 break;
             case ActionType.action:
