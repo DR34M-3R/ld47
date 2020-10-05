@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 2e3587aeba8bba5418ba8cc0e8a4475e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8257110759089572253
+    second: guard_large_idle_0
+  - first:
+      213: -6523083248645369335
+    second: guard_large_idle_1
+  - first:
+      213: -3047604487597070615
+    second: guard_large_idle_2
+  - first:
+      213: -6790797073345180700
+    second: guard_large_idle_3
+  - first:
+      213: 8217747378813081343
+    second: guard_large_idle_4
+  - first:
+      213: 8076485096417908001
+    second: guard_large_idle_5
+  - first:
+      213: -4077467135697615340
+    second: guard_large_idle_6
+  - first:
+      213: -8208857582847551186
+    second: guard_large_idle_7
+  - first:
+      213: -4560456833456419141
+    second: guard_large_idle_8
+  - first:
+      213: -7458072257158521453
+    second: guard_large_idle_9
+  - first:
+      213: -5615863237188812238
+    second: guard_large_idle_10
+  - first:
+      213: 1653158187417392986
+    second: guard_large_idle_11
+  - first:
+      213: -2477017782576455535
+    second: guard_large_idle_12
+  - first:
+      213: -3485459769939839183
+    second: guard_large_idle_13
+  - first:
+      213: 1507421105571203688
+    second: guard_large_idle_14
+  - first:
+      213: 6114595339971996854
+    second: guard_large_idle_15
+  - first:
+      213: -5103102053949387575
+    second: guard_large_idle_16
+  - first:
+      213: 3997103899623465533
+    second: guard_large_idle_17
+  - first:
+      213: -5943569057362723349
+    second: guard_large_idle_18
+  - first:
+      213: 846870938863554865
+    second: guard_large_idle_19
+  - first:
+      213: -5287751639467033763
+    second: guard_large_idle_20
+  - first:
+      213: -356096764516057059
+    second: guard_large_idle_21
+  - first:
+      213: 3213741611109876921
+    second: guard_large_idle_22
+  - first:
+      213: -7935687223452917804
+    second: guard_large_idle_23
+  - first:
+      213: -2075415632402962948
+    second: guard_large_idle_24
+  - first:
+      213: -3577842331014994875
+    second: guard_large_idle_25
+  - first:
+      213: -638463508170870067
+    second: guard_large_idle_26
+  - first:
+      213: 6645714217591059353
+    second: guard_large_idle_27
+  - first:
+      213: 8824353836459250819
+    second: guard_large_idle_28
+  - first:
+      213: -3590823383127200635
+    second: guard_large_idle_29
+  - first:
+      213: -4269173431863327550
+    second: guard_large_idle_30
+  - first:
+      213: -1128175140354214405
+    second: guard_large_idle_31
+  - first:
+      213: 9110101561548618666
+    second: guard_large_idle_32
+  - first:
+      213: -2473828832735941759
+    second: guard_large_idle_33
+  - first:
+      213: -637717736600224757
+    second: guard_large_idle_34
+  - first:
+      213: 8671323751480229556
+    second: guard_large_idle_35
+  - first:
+      213: 2235296331497007229
+    second: guard_large_idle_36
+  - first:
+      213: 6571040555737981850
+    second: guard_large_idle_37
+  - first:
+      213: 7820728069013009498
+    second: guard_large_idle_38
+  - first:
+      213: 6752155627993154008
+    second: guard_large_idle_39
+  - first:
+      213: 723166788734784187
+    second: guard_large_idle_40
+  - first:
+      213: -2524763011147936277
+    second: guard_large_idle_41
+  - first:
+      213: 2661962172318711649
+    second: guard_large_idle_42
+  - first:
+      213: -3109631723453012673
+    second: guard_large_idle_43
+  - first:
+      213: 7149413700563319900
+    second: guard_large_idle_44
+  - first:
+      213: 7435562193979621510
+    second: guard_large_idle_45
+  - first:
+      213: 3700336629920468017
+    second: guard_large_idle_46
+  - first:
+      213: -255154662543590751
+    second: guard_large_idle_47
+  - first:
+      213: 1896290877769123362
+    second: guard_large_idle_48
+  - first:
+      213: -3902504387369706801
+    second: guard_large_idle_49
+  - first:
+      213: -6595399991033449107
+    second: guard_large_idle_50
+  - first:
+      213: 4671744606060691737
+    second: guard_large_idle_51
+  - first:
+      213: 7636239337477931867
+    second: guard_large_idle_52
+  - first:
+      213: -8497992418152239290
+    second: guard_large_idle_53
+  - first:
+      213: 5377030673407123083
+    second: guard_large_idle_54
+  - first:
+      213: 4245001677033948826
+    second: guard_large_idle_55
+  - first:
+      213: 1801977661387043703
+    second: guard_large_idle_56
+  - first:
+      213: 3837742383764442364
+    second: guard_large_idle_57
+  - first:
+      213: 6291031555030672672
+    second: guard_large_idle_58
+  - first:
+      213: -4679549140078879688
+    second: guard_large_idle_59
+  - first:
+      213: -13920981333913323
+    second: guard_large_idle_60
+  - first:
+      213: -1577596124601105935
+    second: guard_large_idle_61
+  - first:
+      213: 3956513164121675387
+    second: guard_large_idle_62
+  - first:
+      213: 2345721081874683441
+    second: guard_large_idle_63
+  - first:
+      213: 4272173062525923813
+    second: guard_large_idle_64
+  - first:
+      213: -7700419485693085954
+    second: guard_large_idle_65
+  - first:
+      213: 6597058328385167703
+    second: guard_large_idle_66
+  - first:
+      213: 6151446662026796573
+    second: guard_large_idle_67
+  - first:
+      213: -4151831949758910170
+    second: guard_large_idle_68
+  - first:
+      213: 7841753602971320567
+    second: guard_large_idle_69
+  - first:
+      213: -4686510848353081168
+    second: guard_large_idle_70
+  - first:
+      213: 6727790528135585035
+    second: guard_large_idle_71
+  - first:
+      213: -8140522525957819815
+    second: guard_large_idle_72
+  - first:
+      213: 4395339759024898184
+    second: guard_large_idle_73
+  - first:
+      213: -5408796313760649919
+    second: guard_large_idle_74
+  - first:
+      213: -518427008482672006
+    second: guard_large_idle_75
+  - first:
+      213: 4973619066615209755
+    second: guard_large_idle_76
+  - first:
+      213: 5350356876213369140
+    second: guard_large_idle_77
+  - first:
+      213: -8870461018410918830
+    second: guard_large_idle_78
+  - first:
+      213: 6193168669265173169
+    second: guard_large_idle_79
+  - first:
+      213: -3848020844712155564
+    second: guard_large_idle_80
+  - first:
+      213: -8176771043313491288
+    second: guard_large_idle_81
+  - first:
+      213: -5283960016091160100
+    second: guard_large_idle_82
+  - first:
+      213: 1952308229482184748
+    second: guard_large_idle_83
+  - first:
+      213: -3019196575362753789
+    second: guard_large_idle_84
+  - first:
+      213: -4159658898997818078
+    second: guard_large_idle_85
+  - first:
+      213: 5639947254332623071
+    second: guard_large_idle_86
+  - first:
+      213: -6943132788218930969
+    second: guard_large_idle_87
+  - first:
+      213: 5260779535403539654
+    second: guard_large_idle_88
+  - first:
+      213: -7260652254684213894
+    second: guard_large_idle_89
+  - first:
+      213: 5623070032122897878
+    second: guard_large_idle_90
+  - first:
+      213: 5917229637677306614
+    second: guard_large_idle_91
+  - first:
+      213: 4142802748737414350
+    second: guard_large_idle_92
+  - first:
+      213: -7714668620213795249
+    second: guard_large_idle_93
+  - first:
+      213: -3981528507917314655
+    second: guard_large_idle_94
+  - first:
+      213: 4524751311252836576
+    second: guard_large_idle_95
+  - first:
+      213: 3927602133872556600
+    second: guard_large_idle_96
+  - first:
+      213: -2833538438076823830
+    second: guard_large_idle_97
+  - first:
+      213: 4880391050252488542
+    second: guard_large_idle_98
+  - first:
+      213: 5352367806595611973
+    second: guard_large_idle_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guard_large_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f86d3389d86d80800000000000000
+      internalID: -8257110759089572253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_1
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902113c985a5975a0800000000000000
+      internalID: -6523083248645369335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e3ec8ddbb4b5d0800000000000000
+      internalID: -3047604487597070615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_3
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb8f7d7a0e32c1a0800000000000000
+      internalID: -6790797073345180700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_4
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61d0893bd4b0270800000000000000
+      internalID: 8217747378813081343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_5
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d9b57760751070800000000000000
+      internalID: 8076485096417908001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_6
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160a615e3de967c0800000000000000
+      internalID: -4077467135697615340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_7
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2999925587441e80800000000000000
+      internalID: -8208857582847551186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_8
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbec35c1ca006b0c0800000000000000
+      internalID: -4560456833456419141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_9
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 4855
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dded2fbca9f7890800000000000000
+      internalID: -7458072257158521453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2328f20d3227012b0800000000000000
+      internalID: -5615863237188812238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57da86dc9231f610800000000000000
+      internalID: 1653158187417392986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906437537ddf9dd0800000000000000
+      internalID: -2477017782576455535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_13
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13732d55ec821afc0800000000000000
+      internalID: -3485459769939839183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_14
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8f74428f6be410800000000000000
+      internalID: 1507421105571203688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_15
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc2a40b0186bd450800000000000000
+      internalID: 6114595339971996854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_16
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc7c528b32e29b0800000000000000
+      internalID: -5103102053949387575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_17
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a263b1d0987730800000000000000
+      internalID: 3997103899623465533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_18
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed34e5ce63348da0800000000000000
+      internalID: -5943569057362723349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_19
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 3884
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315099c1a0b0cb00800000000000000
+      internalID: 846870938863554865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bf31d46e12e96b0800000000000000
+      internalID: -5287751639467033763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_21
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ca5d11e3ee0bf0800000000000000
+      internalID: -356096764516057059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4881ad7f0899c20800000000000000
+      internalID: 3213741611109876921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_23
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df9b7de386ced190800000000000000
+      internalID: -7935687223452917804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_24
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf524557a74a233e0800000000000000
+      internalID: -2075415632402962948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_25
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ee7d2b53f85ec0800000000000000
+      internalID: -3577842331014994875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_26
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2fc6172d8b327f0800000000000000
+      internalID: -638463508170870067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_27
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9933742ded15a3c50800000000000000
+      internalID: 6645714217591059353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_28
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38452829f07667a70800000000000000
+      internalID: 8824353836459250819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_29
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 2913
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c69857825da2ec0800000000000000
+      internalID: -3590823383127200635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4404df169d0c4c0800000000000000
+      internalID: -4269173431863327550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_31
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b2caefaae750f0800000000000000
+      internalID: -1128175140354214405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_32
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab36d35a159d6e70800000000000000
+      internalID: 9110101561548618666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_33
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ba7a598c13badd0800000000000000
+      internalID: -2473828832735941759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_34
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3afae81f5627f0800000000000000
+      internalID: -637717736600224757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_35
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bef263620bb65870800000000000000
+      internalID: 8671323751480229556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_36
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ec9e9b2e550f10800000000000000
+      internalID: 2235296331497007229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_37
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a2711296013b50800000000000000
+      internalID: 6571040555737981850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_38
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5472762ebec88c60800000000000000
+      internalID: 7820728069013009498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_39
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 1942
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1cfaae4c974bd50800000000000000
+      internalID: 6752155627993154008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb295e3ec54390a00800000000000000
+      internalID: 723166788734784187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_41
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4b7a0b6d36fcd0800000000000000
+      internalID: -2524763011147936277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_42
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f7596fd7031f420800000000000000
+      internalID: 2661962172318711649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_43
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f352c4d4c6e58d4d0800000000000000
+      internalID: -3109631723453012673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_44
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3366a1e1d73360800000000000000
+      internalID: 7149413700563319900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_45
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ca7d8b6c603760800000000000000
+      internalID: 7435562193979621510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_46
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c86c74f8c3a5330800000000000000
+      internalID: 3700336629920468017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_47
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafd40bf22857cf0800000000000000
+      internalID: -255154662543590751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_48
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260e30a18af05a10800000000000000
+      internalID: 1896290877769123362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_49
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 971
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcadc60afe487d9c0800000000000000
+      internalID: -3902504387369706801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6536dee6ae6874a0800000000000000
+      internalID: -6595399991033449107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_51
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911489d97fe55d040800000000000000
+      internalID: 4671744606060691737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_52
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538c3a083f59f960800000000000000
+      internalID: 7636239337477931867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_53
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa2148be0111a80800000000000000
+      internalID: -8497992418152239290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_54
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e9fc2a8ec0f9a40800000000000000
+      internalID: 5377030673407123083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_55
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96cb86c88649ea30800000000000000
+      internalID: 4245001677033948826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_56
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773f920c229e10910800000000000000
+      internalID: 1801977661387043703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_57
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc8db36d56624530800000000000000
+      internalID: 3837742383764442364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_58
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02560643edb3e4750800000000000000
+      internalID: 6291031555030672672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_idle_59
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 0
+        width: 692
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c1d94b9d6ee0fb0800000000000000
+      internalID: -4679549140078879688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
