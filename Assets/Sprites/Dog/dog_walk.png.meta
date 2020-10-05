@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: ffceb159f06277a43851c7dd05f7d8bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 409648399785708095
+    second: dog_walk_0
+  - first:
+      213: -6819363591782504471
+    second: dog_walk_1
+  - first:
+      213: -2352571350806575457
+    second: dog_walk_2
+  - first:
+      213: 1864183133969103410
+    second: dog_walk_3
+  - first:
+      213: 7366637844022395002
+    second: dog_walk_4
+  - first:
+      213: -6089539926683720341
+    second: dog_walk_5
+  - first:
+      213: -8567483278920602138
+    second: dog_walk_6
+  - first:
+      213: 3719244731906105007
+    second: dog_walk_7
+  - first:
+      213: 208362724714330473
+    second: dog_walk_8
+  - first:
+      213: -8474385986624187759
+    second: dog_walk_9
+  - first:
+      213: -1074585167998535076
+    second: dog_walk_10
+  - first:
+      213: -7988276277937020304
+    second: dog_walk_11
+  - first:
+      213: -3474871893327240721
+    second: dog_walk_12
+  - first:
+      213: -5392942102390615832
+    second: dog_walk_13
+  - first:
+      213: 1428674022491290040
+    second: dog_walk_14
+  - first:
+      213: 1718787282926600683
+    second: dog_walk_15
+  - first:
+      213: -1733298933740139504
+    second: dog_walk_16
+  - first:
+      213: 9153509134755321957
+    second: dog_walk_17
+  - first:
+      213: 1765421271574925143
+    second: dog_walk_18
+  - first:
+      213: -1422479011604523173
+    second: dog_walk_19
+  - first:
+      213: 7380173688428460666
+    second: dog_walk_20
+  - first:
+      213: 6462267220259439657
+    second: dog_walk_21
+  - first:
+      213: -2645228613685916967
+    second: dog_walk_22
+  - first:
+      213: -8251686665919726192
+    second: dog_walk_23
+  - first:
+      213: -1954631656128364238
+    second: dog_walk_24
+  - first:
+      213: 3980425493902478062
+    second: dog_walk_25
+  - first:
+      213: -8854727934536594396
+    second: dog_walk_26
+  - first:
+      213: -8830584682546985211
+    second: dog_walk_27
+  - first:
+      213: 7535130640031343388
+    second: dog_walk_28
+  - first:
+      213: 5350196607914878446
+    second: dog_walk_29
+  - first:
+      213: -5815187358654058093
+    second: dog_walk_30
+  - first:
+      213: -3668600743214489304
+    second: dog_walk_31
+  - first:
+      213: -5656318463496051135
+    second: dog_walk_32
+  - first:
+      213: -5500134739917254910
+    second: dog_walk_33
+  - first:
+      213: -749491668310389629
+    second: dog_walk_34
+  - first:
+      213: 3651542454154426049
+    second: dog_walk_35
+  - first:
+      213: -112545198589869211
+    second: dog_walk_36
+  - first:
+      213: 2301647178545193384
+    second: dog_walk_37
+  - first:
+      213: -6392403522377184240
+    second: dog_walk_38
+  - first:
+      213: 1075237933456564634
+    second: dog_walk_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dog_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3507
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ac8089c0d5fa500800000000000000
+      internalID: 409648399785708095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_1
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3507
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7629d91f0cc51a0800000000000000
+      internalID: -6819363591782504471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_2
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 3507
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c96622dcf95fd0800000000000000
+      internalID: -2352571350806575457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_3
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 3507
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab088fea8eed910800000000000000
+      internalID: 1864183133969103410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_4
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 3507
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7087e9c61e8b3660800000000000000
+      internalID: 7366637844022395002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65657053bb9d7ba0800000000000000
+      internalID: -6089539926683720341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_6
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3006
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda6dca95f2a1980800000000000000
+      internalID: -8567483278920602138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 3006
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae9106d0696d9330800000000000000
+      internalID: 3719244731906105007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 3006
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969b70f4bc044e200800000000000000
+      internalID: 208362724714330473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_9
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 3006
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19297b928dee46a80800000000000000
+      internalID: -8474385986624187759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2505
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3b8cab7e4611f0800000000000000
+      internalID: -1074585167998535076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2505
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07262e58c01f32190800000000000000
+      internalID: -7988276277937020304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_12
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 2505
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ad367c66c6cfc0800000000000000
+      internalID: -3474871893327240721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_13
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 2505
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e052cc1bbb6825b0800000000000000
+      internalID: -5392942102390615832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_14
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2505
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9fb6a347ba3d310800000000000000
+      internalID: 1428674022491290040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be18c436deb5ad710800000000000000
+      internalID: 1718787282926600683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_16
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2004
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c0bdc9dc512f7e0800000000000000
+      internalID: -1733298933740139504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_17
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 2004
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56852698f0cc70f70800000000000000
+      internalID: 9153509134755321957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_18
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 2004
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f442bfa49008810800000000000000
+      internalID: 1765421271574925143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_19
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2004
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b571dd420e6524ce0800000000000000
+      internalID: -1422479011604523173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a76772ed4ab6660800000000000000
+      internalID: 7380173688428460666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1503
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924073b5cc59ea950800000000000000
+      internalID: 6462267220259439657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_22
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1503
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4d8347924a4bd0800000000000000
+      internalID: -2645228613685916967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_23
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1503
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09df60852be1c7d80800000000000000
+      internalID: -8251686665919726192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_24
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1503
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2314cb56dd0cfd4e0800000000000000
+      internalID: -1954631656128364238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea47f2c5ef4d3730800000000000000
+      internalID: 3980425493902478062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_26
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1002
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cc73f9bdfad1580800000000000000
+      internalID: -8854727934536594396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_27
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1002
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50708c58406737580800000000000000
+      internalID: -8830584682546985211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_28
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1002
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13ea3fe469229860800000000000000
+      internalID: 7535130640031343388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_29
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1002
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee52445e777bf3a40800000000000000
+      internalID: 5350196607914878446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391351158ed4c4fa0800000000000000
+      internalID: -5815187358654058093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_31
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 501
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82167f5af03861dc0800000000000000
+      internalID: -3668600743214489304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_32
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 501
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146a5de6358b081b0800000000000000
+      internalID: -5656318463496051135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_33
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 501
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f427258989ba3b0800000000000000
+      internalID: -5500134739917254910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_34
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 501
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c8e347c454995f0800000000000000
+      internalID: -749491668310389629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6f12ee382eca230800000000000000
+      internalID: 3651542454154426049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_36
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56300e8fcb8207ef0800000000000000
+      internalID: -112545198589869211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_37
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1677b0ae711ff10800000000000000
+      internalID: 2301647178545193384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_38
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 0
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c80c36dde9947a0800000000000000
+      internalID: -6392403522377184240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_walk_39
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 0
+        width: 644
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9124b024330cee00800000000000000
+      internalID: 1075237933456564634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
