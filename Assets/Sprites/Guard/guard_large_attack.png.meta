@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 20c7be3fc09e6d64d8c6b61f484dbfb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1175700104731953814
+    second: guard_large_attack_0
+  - first:
+      213: -1808626290850418149
+    second: guard_large_attack_1
+  - first:
+      213: -526386739136682993
+    second: guard_large_attack_2
+  - first:
+      213: 1892185552044024544
+    second: guard_large_attack_3
+  - first:
+      213: 7045070160382028690
+    second: guard_large_attack_4
+  - first:
+      213: 3288932236974324268
+    second: guard_large_attack_5
+  - first:
+      213: 2158760427646441463
+    second: guard_large_attack_6
+  - first:
+      213: -6118507222228166964
+    second: guard_large_attack_7
+  - first:
+      213: 3337082860083800974
+    second: guard_large_attack_8
+  - first:
+      213: 8894007245674380041
+    second: guard_large_attack_9
+  - first:
+      213: -6103787802817924299
+    second: guard_large_attack_10
+  - first:
+      213: -8772450291280697159
+    second: guard_large_attack_11
+  - first:
+      213: -5995180300537196002
+    second: guard_large_attack_12
+  - first:
+      213: 7656477167763736027
+    second: guard_large_attack_13
+  - first:
+      213: -8179701378198404048
+    second: guard_large_attack_14
+  - first:
+      213: -5709636957452023492
+    second: guard_large_attack_15
+  - first:
+      213: 1056743602688182859
+    second: guard_large_attack_16
+  - first:
+      213: -4094216761263786806
+    second: guard_large_attack_17
+  - first:
+      213: 1781581277932712727
+    second: guard_large_attack_18
+  - first:
+      213: 4007161963050001194
+    second: guard_large_attack_19
+  - first:
+      213: -3432419547595993885
+    second: guard_large_attack_20
+  - first:
+      213: -9065876883978971389
+    second: guard_large_attack_21
+  - first:
+      213: -2771441251815285713
+    second: guard_large_attack_22
+  - first:
+      213: -5138546365084856368
+    second: guard_large_attack_23
+  - first:
+      213: 5963412021399175878
+    second: guard_large_attack_24
+  - first:
+      213: -438402455785161734
+    second: guard_large_attack_25
+  - first:
+      213: -2069344580445421561
+    second: guard_large_attack_26
+  - first:
+      213: 9068453570917829208
+    second: guard_large_attack_27
+  - first:
+      213: -3510099186419888648
+    second: guard_large_attack_28
+  - first:
+      213: -3291015562768527620
+    second: guard_large_attack_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guard_large_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5340
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a00f0240de05010800000000000000
+      internalID: 1175700104731953814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_1
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 5340
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12bd6298f776e6e0800000000000000
+      internalID: -1808626290850418149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_2
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 5340
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042847bc06e1b8f0800000000000000
+      internalID: -526386739136682993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_3
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 5340
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e5befbb4624a10800000000000000
+      internalID: 1892185552044024544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_4
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 5340
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b66470cfd15c160800000000000000
+      internalID: 7045070160382028690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_5
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 5340
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a7f2ba172a4ad20800000000000000
+      internalID: 3288932236974324268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4005
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7590ddb2575fd10800000000000000
+      internalID: 2158760427646441463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_7
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 4005
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc69d6f3912b61ba0800000000000000
+      internalID: -6118507222228166964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_8
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 4005
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be65d3e23bf4e20800000000000000
+      internalID: 3337082860083800974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_9
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 4005
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bfb2ca77cdd6b70800000000000000
+      internalID: 8894007245674380041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_10
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 4005
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533fca4255dfa4ba0800000000000000
+      internalID: -6103787802817924299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_11
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 4005
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8217240fef14680800000000000000
+      internalID: -8772450291280697159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2670
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e129f0ec747dccca0800000000000000
+      internalID: -5995180300537196002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2670
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd542771b65414a60800000000000000
+      internalID: 7656477167763736027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_14
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 2670
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03406b73fecdb7e80800000000000000
+      internalID: -8179701378198404048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_15
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 2670
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3941aa207b43c0b0800000000000000
+      internalID: -5709636957452023492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_16
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 2670
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a45e035be4aae00800000000000000
+      internalID: 1056743602688182859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_17
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 2670
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4fb673c8b6e27c0800000000000000
+      internalID: -4094216761263786806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7137aa9abb279b810800000000000000
+      internalID: 1781581277932712727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1335
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a236d05139c4c9730800000000000000
+      internalID: 4007161963050001194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_20
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1335
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec0f617b989d50d0800000000000000
+      internalID: -3432419547595993885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_21
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 1335
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071201d1098f2280800000000000000
+      internalID: -9065876883978971389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_22
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 1335
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9fad7ddcd989d0800000000000000
+      internalID: -2771441251815285713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_23
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 1335
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df0e3f5e4730b8b0800000000000000
+      internalID: -5138546365084856368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2cac053ab42c250800000000000000
+      internalID: 5963412021399175878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_25
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb344a0a4b7ae9f0800000000000000
+      internalID: -438402455785161734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_26
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 0
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700cba461163843e0800000000000000
+      internalID: -2069344580445421561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_27
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 0
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a0eacd97e99dd70800000000000000
+      internalID: 9068453570917829208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_28
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 0
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd0e03236f994fc0800000000000000
+      internalID: -3510099186419888648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_attack_29
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 0
+        width: 1107
+        height: 1335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe46ee38c6f352d0800000000000000
+      internalID: -3291015562768527620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

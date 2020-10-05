@@ -88,10 +88,22 @@ public class GuardScript : MonoBehaviour
         
 
     }
+
+    public void Attack() {
+        actionType = GuardionActionType.attac;
+        
+    }
+    
+    IEnumerator DelayAttack() {
+        anim.SetTrigger("Attack");
+        yield return new WaitForSeconds(2f);
+
+    }
 }
 
 public enum GuardionActionType{
     idle,
     move,
+    attac,
     none
 }
