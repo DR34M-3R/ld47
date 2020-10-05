@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 33d0d739fd33a3f47a1917f98193fe58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3183626821134851807
+    second: guard_large_walk_0
+  - first:
+      213: 5123329070352148793
+    second: guard_large_walk_1
+  - first:
+      213: -4727110377493834731
+    second: guard_large_walk_2
+  - first:
+      213: 4105600307310074648
+    second: guard_large_walk_3
+  - first:
+      213: -7410612220751592743
+    second: guard_large_walk_4
+  - first:
+      213: -3742656921479354726
+    second: guard_large_walk_5
+  - first:
+      213: -5863142397234006976
+    second: guard_large_walk_6
+  - first:
+      213: -6779700094226175413
+    second: guard_large_walk_7
+  - first:
+      213: -5184319281376551859
+    second: guard_large_walk_8
+  - first:
+      213: -3977561459115415062
+    second: guard_large_walk_9
+  - first:
+      213: -6494649829556431136
+    second: guard_large_walk_10
+  - first:
+      213: 6226425891581064201
+    second: guard_large_walk_11
+  - first:
+      213: 336371059517941252
+    second: guard_large_walk_12
+  - first:
+      213: -8476130975183953356
+    second: guard_large_walk_13
+  - first:
+      213: -4520158716179167363
+    second: guard_large_walk_14
+  - first:
+      213: 6930950317588542433
+    second: guard_large_walk_15
+  - first:
+      213: -7342220022298092606
+    second: guard_large_walk_16
+  - first:
+      213: 4777974037435267489
+    second: guard_large_walk_17
+  - first:
+      213: -3202772425920499222
+    second: guard_large_walk_18
+  - first:
+      213: -548723351590687917
+    second: guard_large_walk_19
+  - first:
+      213: -7027138254752009607
+    second: guard_large_walk_20
+  - first:
+      213: -756073438299884857
+    second: guard_large_walk_21
+  - first:
+      213: 414129180557316418
+    second: guard_large_walk_22
+  - first:
+      213: 5703391619029260575
+    second: guard_large_walk_23
+  - first:
+      213: 7749757446168588635
+    second: guard_large_walk_24
+  - first:
+      213: -4251011219200170346
+    second: guard_large_walk_25
+  - first:
+      213: 8292990597545315172
+    second: guard_large_walk_26
+  - first:
+      213: 5659172137206442266
+    second: guard_large_walk_27
+  - first:
+      213: 5093788761366949357
+    second: guard_large_walk_28
+  - first:
+      213: -5485449513584933111
+    second: guard_large_walk_29
+  - first:
+      213: -2239191552593576344
+    second: guard_large_walk_30
+  - first:
+      213: 2036723604650425333
+    second: guard_large_walk_31
+  - first:
+      213: 3013197293125972832
+    second: guard_large_walk_32
+  - first:
+      213: 3187688691723649324
+    second: guard_large_walk_33
+  - first:
+      213: 5960478822640039315
+    second: guard_large_walk_34
+  - first:
+      213: 7745723991537278043
+    second: guard_large_walk_35
+  - first:
+      213: -5871588609714013858
+    second: guard_large_walk_36
+  - first:
+      213: -1907210507638365958
+    second: guard_large_walk_37
+  - first:
+      213: 1558655595267017216
+    second: guard_large_walk_38
+  - first:
+      213: -5244899218361102777
+    second: guard_large_walk_39
+  - first:
+      213: -3867136932670188637
+    second: guard_large_walk_0
+  - first:
+      213: -2605313349083525313
+    second: guard_large_walk_1
+  - first:
+      213: -3339768964230456290
+    second: guard_large_walk_2
+  - first:
+      213: -5648644365036196288
+    second: guard_large_walk_3
+  - first:
+      213: -6795428108997165564
+    second: guard_large_walk_4
+  - first:
+      213: -8724567066254062466
+    second: guard_large_walk_5
+  - first:
+      213: -4006276538317941532
+    second: guard_large_walk_6
+  - first:
+      213: -8073206000566668456
+    second: guard_large_walk_7
+  - first:
+      213: -8642856135653297627
+    second: guard_large_walk_8
+  - first:
+      213: -8867846193153936550
+    second: guard_large_walk_9
+  - first:
+      213: -7941694472031270202
+    second: guard_large_walk_10
+  - first:
+      213: -5399956947761516946
+    second: guard_large_walk_11
+  - first:
+      213: -3401241841366422618
+    second: guard_large_walk_12
+  - first:
+      213: 1382945674479240093
+    second: guard_large_walk_13
+  - first:
+      213: -7422377868032631392
+    second: guard_large_walk_14
+  - first:
+      213: -4969054104384927512
+    second: guard_large_walk_15
+  - first:
+      213: 1902532818469019928
+    second: guard_large_walk_16
+  - first:
+      213: 9137591763298241418
+    second: guard_large_walk_17
+  - first:
+      213: -178486537248209714
+    second: guard_large_walk_18
+  - first:
+      213: 5443060787278883776
+    second: guard_large_walk_19
+  - first:
+      213: -8677467008632650217
+    second: guard_large_walk_20
+  - first:
+      213: -78857826626967614
+    second: guard_large_walk_21
+  - first:
+      213: -8355625969481630037
+    second: guard_large_walk_22
+  - first:
+      213: -799796489626221769
+    second: guard_large_walk_23
+  - first:
+      213: 2761554519563902712
+    second: guard_large_walk_24
+  - first:
+      213: 6341018002091469273
+    second: guard_large_walk_25
+  - first:
+      213: 6577951734079192338
+    second: guard_large_walk_26
+  - first:
+      213: -5895611210189942232
+    second: guard_large_walk_27
+  - first:
+      213: -4984449785864408964
+    second: guard_large_walk_28
+  - first:
+      213: 2274126908443638602
+    second: guard_large_walk_29
+  - first:
+      213: -1501525080516270174
+    second: guard_large_walk_30
+  - first:
+      213: -8297212238152986102
+    second: guard_large_walk_31
+  - first:
+      213: 3505431553993368338
+    second: guard_large_walk_32
+  - first:
+      213: -4368914781050466457
+    second: guard_large_walk_33
+  - first:
+      213: -6978634775750068052
+    second: guard_large_walk_34
+  - first:
+      213: 3758798567240881625
+    second: guard_large_walk_35
+  - first:
+      213: 8857154327659381959
+    second: guard_large_walk_36
+  - first:
+      213: 8887951285377663290
+    second: guard_large_walk_37
+  - first:
+      213: -5396728619314723204
+    second: guard_large_walk_38
+  - first:
+      213: 342143814944732392
+    second: guard_large_walk_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guard_large_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3892
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3566ed27b255ac0800000000000000
+      internalID: -3867136932670188637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_1
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3892
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f0b43005118dbd0800000000000000
+      internalID: -2605313349083525313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_2
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3892
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c5b2762d1c6a1d0800000000000000
+      internalID: -3339768964230456290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_3
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 3892
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e6187b0ebfb91b0800000000000000
+      internalID: -5648644365036196288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_4
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 3892
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef48a732ac1b1a0800000000000000
+      internalID: -6795428108997165564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_5
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 3892
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ccadc5a7c1ce680800000000000000
+      internalID: -8724567066254062466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_6
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 3892
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4d39de6b8d668c0800000000000000
+      internalID: -4006276538317941532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_7
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 3892
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853fba98ae536ff80800000000000000
+      internalID: -8073206000566668456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2919
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522749de2286e0880800000000000000
+      internalID: -8642856135653297627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_9
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2919
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5372460fd41fe480800000000000000
+      internalID: -8867846193153936550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2919
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca84ef54fe69c190800000000000000
+      internalID: -7941694472031270202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_11
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 2919
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea54624cf7f05b0800000000000000
+      internalID: -5399956947761516946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_12
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2919
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aba82ad09c5cc0d0800000000000000
+      internalID: -3401241841366422618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_13
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 2919
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938ff683c5313310800000000000000
+      internalID: 1382945674479240093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_14
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 2919
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad913b87aa6ef890800000000000000
+      internalID: -7422377868032631392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_15
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 2919
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e880768e9f5a0bb0800000000000000
+      internalID: -4969054104384927512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1946
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8116e52b487276a10800000000000000
+      internalID: 1902532818469019928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_17
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1946
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4de1bb4f3fce70800000000000000
+      internalID: 9137591763298241418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_18
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1946
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec48126a073e58df0800000000000000
+      internalID: -178486537248209714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_19
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1946
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbad9c82f2a98b40800000000000000
+      internalID: 5443060787278883776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_20
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1946
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71687481bb1739780800000000000000
+      internalID: -8677467008632650217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_21
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 1946
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7e3287937d7eef0800000000000000
+      internalID: -78857826626967614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_22
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 1946
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb405637ada0c80800000000000000
+      internalID: -8355625969481630037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_23
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 1946
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7338937845d86e4f0800000000000000
+      internalID: -799796489626221769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe1b764433035620800000000000000
+      internalID: 2761554519563902712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_25
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 973
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9e409d642dff750800000000000000
+      internalID: 6341018002091469273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_26
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 973
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d747b2044994b50800000000000000
+      internalID: 6577951734079192338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_27
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 973
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82251d237d49e2ea0800000000000000
+      internalID: -5895611210189942232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_28
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 973
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70b7c8145da3dab0800000000000000
+      internalID: -4984449785864408964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_29
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 973
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb0f7df525f8f10800000000000000
+      internalID: 2274126908443638602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_30
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 973
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7ec7a05e2892be0800000000000000
+      internalID: -1501525080516270174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_31
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 973
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021ede0e616adc80800000000000000
+      internalID: -8297212238152986102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21368300d6bc5a030800000000000000
+      internalID: 3505431553993368338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_33
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8885772f7e53c0800000000000000
+      internalID: -4368914781050466457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_34
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 0
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8ba3655a8e62f90800000000000000
+      internalID: -6978634775750068052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_35
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 0
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d3a6c16fe92430800000000000000
+      internalID: 3758798567240881625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_36
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 0
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c483fc0feeeaea70800000000000000
+      internalID: 8857154327659381959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_37
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 0
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3189e98a98585b70800000000000000
+      internalID: 8887951285377663290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_38
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 0
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76cf80f9e7fa15b0800000000000000
+      internalID: -5396728619314723204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_walk_39
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 0
+        width: 769
+        height: 973
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b0e7acf98fb400800000000000000
+      internalID: 342143814944732392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
