@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SafeAction : BaseUsableAction
 {
-    public GameObject openned;
+    public GameObject opened;
     private bool isOpen;
 
     public override void Run()
@@ -15,7 +15,7 @@ public class SafeAction : BaseUsableAction
             if (isOpen)
             {
                 SubtitlesController.Instance.Show(Loc.Get("safe_opened"));
-                //Add part of clock, show opened safe
+                opened.active = true;
             }
             else
             {
