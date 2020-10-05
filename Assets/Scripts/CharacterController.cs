@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,25 +7,28 @@ public class CharacterController : MonoBehaviour
 {
     public static CharacterController Instance;
 
-    [SerializeField] private Transform SpriteTransform;
+    [SerializeField] private Transform spriteTransform;
 
-    [Header("Var")] [SerializeField] public float Axis;
+    private float axis;
+    private int lastDirection;
     [SerializeField] private float moveSpeed;
 
     [Header("Components")] [SerializeField]
     private Animator anim;
 
-    [SerializeField] private Rigidbody2D RB;
+    [SerializeField] private Rigidbody2D rb;
 
     [SerializeField] private Collider2D collider;
 
-    [Header("State")] [SerializeField] private ActionType SetAction;
-
+    [SerializeField] private ActionType state;
+    
 
     public void Awake()
     {
         Instance = this;
         collider = GetComponent<Collider2D>();
+        rb = GetComponent<Rigidbody2D>();
+        lastDirection = 1;
     }
 
     private void Start()
@@ -45,22 +49,17 @@ public class CharacterController : MonoBehaviour
 
     private void InputUpdate()
     {
-        switch (SetAction)
+        switch (state)
         {
             case ActionType.none:
-                if (Axis != 0)
-                {
-                    anim.SetBool("walk", true);
-                }
-                else
-                {
-                    anim.SetBool("walk", false);
-                }
-
+                anim.SetBool("walk", axis != 0);
+                
                 SetDirection(Input.GetAxis("Horizontal"));
+                
+                anim.SetFloat("walkSpeed", Math.Abs(axis) * moveSpeed / 2.75f);
 
                 if (!Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.D))
-                    Axis = 0;
+                    axis = 0;
 
                 if (Input.GetKeyDown(KeyCode.E))
                     Use();
@@ -70,33 +69,42 @@ public class CharacterController : MonoBehaviour
 
                 break;
             case ActionType.action:
-                Axis = 0;
+                axis = 0;
                 break;
         }
     }
 
     private void Move()
     {
-        RB.velocity = new Vector2(Axis * moveSpeed, RB.velocity.y);
+        rb.velocity = new Vector2(axis * moveSpeed, rb.velocity.y);
     }
 
     private void SetDirection(float Dir)
     {
-        Axis = Dir;
+        axis = Dir;
 
-        if (Axis < 0 || Axis > 0)
+        if (axis < 0 || axis > 0)
         {
-            SpriteTransform.rotation = Quaternion.Euler(0, Axis < 0 ? 180 : 0, 0);
+            var flip = axis < 0;
+            lastDirection = flip ? -1 : 1;
+            spriteTransform.rotation = Quaternion.Euler(0, flip ? 180 : 0, 0);
         }
     }
 
-    public void GunShot()
+    private void GunShot()
     {
         StartCoroutine(Delay(2f));
         anim.SetTrigger("GunShot");
+        var rayCastOffsetPoint = new Vector3(0.5f * lastDirection, 0.4f, 0);
+        var hit = Physics2D.Raycast(transform.position + rayCastOffsetPoint,transform.right, 5f);
+        Debug.DrawRay(transform.position,transform.right);
+        
+        hit.transform.GetComponent<GuardScript>()?.StartCoroutine("Dead");
+        
+        Debug.Log(hit.transform.name);
     }
 
-    public void Use()
+    private void Use()
     {
         var item = GetUsableComponentInTouch();
         if (item != null)
@@ -118,21 +126,21 @@ public class CharacterController : MonoBehaviour
         return results.Count > 0 ? results[0]?.gameObject : null;
     }
 
-    IEnumerator Delay(float delayTime)
+    private IEnumerator Delay(float delayTime)
     {
-        SetAction = ActionType.action;
+        state = ActionType.action;
         yield return new WaitForSeconds(delayTime);
-        SetAction = ActionType.none;
+        state = ActionType.none;
     }
 
-    IEnumerator Using(GameObject item, float delayTime)
+    private IEnumerator Using(GameObject item, float delayTime)
     {
-        SetAction = ActionType.action;
+        state = ActionType.action;
         yield return new WaitForSeconds(delayTime);
 
         item.GetComponent<BaseUsableAction>()?.Run();
         
-        SetAction = ActionType.none;
+        state = ActionType.none;
     }
 }
 
