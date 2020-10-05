@@ -10,6 +10,7 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private Transform spriteTransform;
 
     private float axis;
+    private float climbAxis;
     private int lastDirection;
     [SerializeField] private float moveSpeed;
 
@@ -72,9 +73,29 @@ public class CharacterController : MonoBehaviour
                     SubtitlesController.Instance.Show(Loc.Get("projector_needs_battery_and_lens"));
                 }
 
-                break;
+                if(Input.GetKeyDown(KeyCode.C))
+                    StartClimb();
+
+
+                    break;
             case ActionType.action:
                 axis = 0;
+                break;
+
+            case ActionType.climb:
+
+                if(Input.GetKey(KeyCode.W))
+                    Climb(ClimbState.climbUp);
+
+                if(Input.GetKey(KeyCode.S))
+                    Climb(ClimbState.climbDown);
+
+                if(!Input.GetKey(KeyCode.W) && !Input.GetKey(KeyCode.S))
+                    Climb(ClimbState.wait);
+
+                if(Input.GetKeyDown(KeyCode.C))
+                    EndClimb();
+
                 break;
         }
     }
@@ -94,6 +115,33 @@ public class CharacterController : MonoBehaviour
             lastDirection = flip ? -1 : 1;
             spriteTransform.rotation = Quaternion.Euler(0, flip ? 180 : 0, 0);
         }
+    }
+    public void StartClimb() {
+        state = ActionType.climb;
+        anim.SetTrigger("StartClimb");
+        rb.isKinematic = true;
+    }
+
+    public void Climb(ClimbState state) {
+        if(state == ClimbState.climbUp)
+            climbAxis = 1;
+            
+        if(state == ClimbState.wait)
+            climbAxis = 0;
+
+        if(state == ClimbState.climbDown)
+            climbAxis = -1;
+
+        anim.SetFloat("ClimbAxis",climbAxis * 2);
+
+
+        rb.MovePosition(new Vector3(transform.position.x,transform.position.y + climbAxis * Time.deltaTime));
+    }
+
+    public void EndClimb() {
+        state = ActionType.none;
+        anim.SetTrigger("EndClimb");
+        rb.isKinematic = false;
     }
 
     private void GunShot()
@@ -152,5 +200,12 @@ public class CharacterController : MonoBehaviour
 public enum ActionType
 {
     none,
-    action
+    action,
+    climb
+}
+
+public enum ClimbState {
+    climbUp,
+    climbDown,
+    wait
 }

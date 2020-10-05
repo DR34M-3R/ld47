@@ -1,7 +1,97 @@
 fileFormatVersion: 2
 guid: d63513aec7719774ab4cf5405d14e491
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4192713733131100139
+    second: boy_climb_0
+  - first:
+      213: -8930409540436951021
+    second: boy_climb_1
+  - first:
+      213: 6425863487103745749
+    second: boy_climb_2
+  - first:
+      213: -4024392778175675078
+    second: boy_climb_3
+  - first:
+      213: -5540097934665385190
+    second: boy_climb_4
+  - first:
+      213: 3896906605960541172
+    second: boy_climb_5
+  - first:
+      213: -2836922967637324005
+    second: boy_climb_6
+  - first:
+      213: -3829935883246977033
+    second: boy_climb_7
+  - first:
+      213: 5326869630350342182
+    second: boy_climb_8
+  - first:
+      213: -7539005741697072501
+    second: boy_climb_9
+  - first:
+      213: 4464573142410182925
+    second: boy_climb_10
+  - first:
+      213: -7774521702720806347
+    second: boy_climb_11
+  - first:
+      213: -7517604374366060514
+    second: boy_climb_12
+  - first:
+      213: 393654762375482199
+    second: boy_climb_13
+  - first:
+      213: -5986955380298013937
+    second: boy_climb_14
+  - first:
+      213: -1583058527237518198
+    second: boy_climb_15
+  - first:
+      213: -9143518665320722390
+    second: boy_climb_16
+  - first:
+      213: -5576371476397656522
+    second: boy_climb_17
+  - first:
+      213: 5385884787774661960
+    second: boy_climb_18
+  - first:
+      213: 4116128385538455765
+    second: boy_climb_19
+  - first:
+      213: -1792916236588902138
+    second: boy_climb_20
+  - first:
+      213: -4271435008094966754
+    second: boy_climb_21
+  - first:
+      213: -3933634236132235851
+    second: boy_climb_22
+  - first:
+      213: 254475360065190920
+    second: boy_climb_23
+  - first:
+      213: 746254606018395232
+    second: boy_climb_24
+  - first:
+      213: -3046459493829328269
+    second: boy_climb_25
+  - first:
+      213: 933690435575575770
+    second: boy_climb_26
+  - first:
+      213: 6165172862757179184
+    second: boy_climb_27
+  - first:
+      213: -6742264286811947348
+    second: boy_climb_28
+  - first:
+      213: 2107907699812050703
+    second: boy_climb_29
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +130,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +161,651 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: boy_climb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5e242de28f2a30800000000000000
+      internalID: 4192713733131100139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3100f7b96dfc01480800000000000000
+      internalID: -8930409540436951021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb8fbbbc04d2950800000000000000
+      internalID: 6425863487103745749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350134271c7628c0800000000000000
+      internalID: -4024392778175675078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bf467f74e9d13b0800000000000000
+      internalID: -5540097934665385190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_5
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3b62359e7941630800000000000000
+      internalID: 3896906605960541172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_6
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f84d2779931a8d0800000000000000
+      internalID: -2836922967637324005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_7
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffba862b9559dac0800000000000000
+      internalID: -3829935883246977033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_8
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62839d1b4b7dce940800000000000000
+      internalID: 5326869630350342182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_9
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1202
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b820486a832106790800000000000000
+      internalID: -7539005741697072501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01cb136e9955fd30800000000000000
+      internalID: 4464573142410182925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532e2cad3b95b1490800000000000000
+      internalID: -7774521702720806347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100df7c6aa1ca790800000000000000
+      internalID: -7517604374366060514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b0883bbea867500800000000000000
+      internalID: 393654762375482199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0329374dcf0aeca0800000000000000
+      internalID: -5986955380298013937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_15
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cca5928a8d70ae0800000000000000
+      internalID: -1583058527237518198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_16
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a209764e732bb1180800000000000000
+      internalID: -9143518665320722390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_17
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63672b5efafbc92b0800000000000000
+      internalID: -5576371476397656522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_18
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8452d78cda18eba40800000000000000
+      internalID: 5385884787774661960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_19
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 601
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8fbed55fc6f1930800000000000000
+      internalID: 4116128385538455765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609961e9e284e17e0800000000000000
+      internalID: -1792916236588902138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce45dbd70d8b4c0800000000000000
+      internalID: -4271435008094966754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_22
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5e507e08ce869c0800000000000000
+      internalID: -3933634236132235851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c76c0edf3188300800000000000000
+      internalID: 254475360065190920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_24
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb9bf3c9a3b5a00800000000000000
+      internalID: 746254606018395232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_25
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372cfaf2b3dc8b5d0800000000000000
+      internalID: -3046459493829328269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_26
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad479a6118225fc00800000000000000
+      internalID: 933690435575575770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_27
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f058fdd081f8550800000000000000
+      internalID: 6165172862757179184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_28
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae75ca6a5aae62a0800000000000000
+      internalID: -6742264286811947348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy_climb_29
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 231
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07ab9282eac04d10800000000000000
+      internalID: 2107907699812050703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
