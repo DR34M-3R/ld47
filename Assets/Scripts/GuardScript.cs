@@ -11,34 +11,46 @@ public class GuardScript : MonoBehaviour
     [SerializeField] float Axis;
     [SerializeField] float moveSpeed;
 
+    [SerializeField] Animator anim;
+
     public void Start() {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+        Vector3 target = PointList[Random.Range(0,PointList.Count)].position;
+        SetTarget(target);
     }
 
     private void Update() {
-        
+        switch(actionType) {
+            case GuardionActionType.move:Move();
+               break;
+        }
     }
 
     public void SetTarget(Vector3 target) {
         TargetPosition = target;
+        Move();
     }
 
     public void Move() {
 
-        if(Vector3.Distance(transform.position,TargetPosition) > 0.5f) {
+        if(Vector3.Distance(transform.position,TargetPosition) > 2f) {
 
             actionType = GuardionActionType.move;
 
-            if(transform.position.x > TargetPosition.x) {
-                Left();
+            anim.SetBool("Move",true);
+
+            if(transform.position.x >= TargetPosition.x) {
+                Right();
                 Axis = -1;
             } else {
-                Right();
+                Left();
                 Axis = 1;
             }
         } else {
             Axis = 0;
             Idle();
+            anim.SetBool("Move",false);
         }
 
         rb.velocity = new Vector2(Axis * moveSpeed,rb.velocity.y);
@@ -54,22 +66,32 @@ public class GuardScript : MonoBehaviour
     }
 
     public void Idle() {
-        Delay(Random.Range(5,10));
+       StartCoroutine(Delay(Random.Range(5,10)));
     }
 
     public IEnumerator Delay(float time) {
+        actionType = GuardionActionType.none;
         yield return new WaitForSeconds(time);
-       //SetTarget()
+        Vector3 target = PointList[Random.Range(0,PointList.Count)].position;
+        SetTarget(target);
     }
     
 
     public IEnumerator Dead() {
         yield return new WaitForSeconds(1f);
-        Destroy(gameObject);
+        //Destroy(gameObject);
+        actionType = GuardionActionType.none;
+        anim.SetTrigger("Dead");
+        rb.velocity = new Vector2(0 * moveSpeed,rb.velocity.y);
+        rb.isKinematic = true;
+        GetComponent<CapsuleCollider2D>().isTrigger = true;
+        
+
     }
 }
 
 public enum GuardionActionType{
     idle,
-    move
+    move,
+    none
 }

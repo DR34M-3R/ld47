@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 8b03b31f3431b504a834619dc5df5f60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8469656541591571972
+    second: guard_large_mort_0
+  - first:
+      213: 5877734818029795661
+    second: guard_large_mort_1
+  - first:
+      213: 4507677473101433007
+    second: guard_large_mort_2
+  - first:
+      213: 3434020800017479391
+    second: guard_large_mort_3
+  - first:
+      213: -1677041509086143916
+    second: guard_large_mort_4
+  - first:
+      213: 5786701901071471127
+    second: guard_large_mort_5
+  - first:
+      213: 4212076368219016380
+    second: guard_large_mort_6
+  - first:
+      213: -4275675825613984501
+    second: guard_large_mort_7
+  - first:
+      213: -8282293593805896473
+    second: guard_large_mort_8
+  - first:
+      213: 7084927373249891749
+    second: guard_large_mort_9
+  - first:
+      213: 7075434008483081338
+    second: guard_large_mort_10
+  - first:
+      213: 5179456777598319834
+    second: guard_large_mort_11
+  - first:
+      213: 7288215569228049948
+    second: guard_large_mort_12
+  - first:
+      213: -5957003795575338418
+    second: guard_large_mort_13
+  - first:
+      213: 2896931998864435313
+    second: guard_large_mort_14
+  - first:
+      213: 5790858450334754920
+    second: guard_large_mort_15
+  - first:
+      213: 6204588459006532688
+    second: guard_large_mort_16
+  - first:
+      213: 6859282487124409240
+    second: guard_large_mort_17
+  - first:
+      213: 7572420609215735337
+    second: guard_large_mort_18
+  - first:
+      213: -163444319910390648
+    second: guard_large_mort_19
+  - first:
+      213: -8886058626093517465
+    second: guard_large_mort_20
+  - first:
+      213: 1142323523572117071
+    second: guard_large_mort_21
+  - first:
+      213: 3455381348001769026
+    second: guard_large_mort_22
+  - first:
+      213: 6324041929089264283
+    second: guard_large_mort_23
+  - first:
+      213: 3337510371809421442
+    second: guard_large_mort_24
+  - first:
+      213: 473264536073089678
+    second: guard_large_mort_25
+  - first:
+      213: -5131090311104364971
+    second: guard_large_mort_26
+  - first:
+      213: 461104791458910360
+    second: guard_large_mort_27
+  - first:
+      213: 4952747524293062027
+    second: guard_large_mort_28
+  - first:
+      213: -6161652505874845701
+    second: guard_large_mort_29
+  - first:
+      213: -6795929585717944988
+    second: guard_large_mort_30
+  - first:
+      213: -2221048665069586281
+    second: guard_large_mort_31
+  - first:
+      213: -8541346113959675238
+    second: guard_large_mort_32
+  - first:
+      213: 8145772535033821114
+    second: guard_large_mort_33
+  - first:
+      213: -4046713341481051048
+    second: guard_large_mort_34
+  - first:
+      213: -4767369371380772358
+    second: guard_large_mort_35
+  - first:
+      213: 1258886434539008715
+    second: guard_large_mort_36
+  - first:
+      213: 3822361695751974103
+    second: guard_large_mort_37
+  - first:
+      213: 1571878419166107361
+    second: guard_large_mort_0
+  - first:
+      213: 6121570258428524612
+    second: guard_large_mort_1
+  - first:
+      213: 139704570646660376
+    second: guard_large_mort_2
+  - first:
+      213: -5301495767571287014
+    second: guard_large_mort_3
+  - first:
+      213: 8355611573397809
+    second: guard_large_mort_4
+  - first:
+      213: -4671192991355570180
+    second: guard_large_mort_5
+  - first:
+      213: 6279085378179315798
+    second: guard_large_mort_6
+  - first:
+      213: -3296297827592598420
+    second: guard_large_mort_7
+  - first:
+      213: 304684974475803820
+    second: guard_large_mort_8
+  - first:
+      213: -7914291254854126231
+    second: guard_large_mort_9
+  - first:
+      213: -1219969036485923620
+    second: guard_large_mort_10
+  - first:
+      213: -3295948710713094620
+    second: guard_large_mort_11
+  - first:
+      213: 225775965651723285
+    second: guard_large_mort_12
+  - first:
+      213: -8702273067624564302
+    second: guard_large_mort_13
+  - first:
+      213: 4738410515644833790
+    second: guard_large_mort_14
+  - first:
+      213: -1995967144229041188
+    second: guard_large_mort_15
+  - first:
+      213: 9221766461641788504
+    second: guard_large_mort_16
+  - first:
+      213: -3812113151284869723
+    second: guard_large_mort_17
+  - first:
+      213: -9035801214588542502
+    second: guard_large_mort_18
+  - first:
+      213: 7415675897974088194
+    second: guard_large_mort_19
+  - first:
+      213: 6440499813259131061
+    second: guard_large_mort_20
+  - first:
+      213: -5831913763387433092
+    second: guard_large_mort_21
+  - first:
+      213: -5362520210928817923
+    second: guard_large_mort_22
+  - first:
+      213: -6874556574156050736
+    second: guard_large_mort_23
+  - first:
+      213: -4592758090260392264
+    second: guard_large_mort_24
+  - first:
+      213: 5170517183580826908
+    second: guard_large_mort_25
+  - first:
+      213: 7952272265015725038
+    second: guard_large_mort_26
+  - first:
+      213: 5621208252093060628
+    second: guard_large_mort_27
+  - first:
+      213: -5960109108331694286
+    second: guard_large_mort_28
+  - first:
+      213: -8094601169173861797
+    second: guard_large_mort_29
+  - first:
+      213: 3023508500436656634
+    second: guard_large_mort_30
+  - first:
+      213: -861371590557760653
+    second: guard_large_mort_31
+  - first:
+      213: -893811703947157915
+    second: guard_large_mort_32
+  - first:
+      213: 7527045945137492065
+    second: guard_large_mort_33
+  - first:
+      213: -2023825456537613021
+    second: guard_large_mort_34
+  - first:
+      213: 1979483765402540811
+    second: guard_large_mort_35
+  - first:
+      213: -8946795641798763904
+    second: guard_large_mort_36
+  - first:
+      213: -7644118946337805086
+    second: guard_large_mort_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guard_large_mort_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7392
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69f74181f60d510800000000000000
+      internalID: 1571878419166107361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_1
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 7392
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487a3177bf24f450800000000000000
+      internalID: 6121570258428524612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_2
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 7392
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81584ea119450f100800000000000000
+      internalID: 139704570646660376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_3
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 7392
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a143dab10bd4d66b0800000000000000
+      internalID: -5301495767571287014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_4
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 7392
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a6bb626fad1000800000000000000
+      internalID: 8355611573397809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6336
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f4f039b69c2fb0800000000000000
+      internalID: -4671192991355570180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_6
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 6336
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6583ab822eac32750800000000000000
+      internalID: 6279085378179315798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_7
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 6336
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c837027923142d0800000000000000
+      internalID: -3296297827592598420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_8
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 6336
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac7708be557a3400800000000000000
+      internalID: 304684974475803820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_9
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 6336
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9657071190aca2290800000000000000
+      internalID: -7914291254854126231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce74fff9cc11fe0800000000000000
+      internalID: -1219969036485923620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_11
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 5280
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e0a0c3c107242d0800000000000000
+      internalID: -3295948710713094620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_12
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 5280
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ed776b0e122300800000000000000
+      internalID: 225775965651723285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_13
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 5280
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9f9c960c05b3780800000000000000
+      internalID: -8702273067624564302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_14
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 5280
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5cf0424732c140800000000000000
+      internalID: 4738410515644833790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb80e81576ec44e0800000000000000
+      internalID: -1995967144229041188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_16
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4224
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c05c3ecbb4aff70800000000000000
+      internalID: 9221766461641788504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_17
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 4224
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5021e4947a81bc0800000000000000
+      internalID: -3812113151284869723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_18
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 4224
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad128674ba26a9280800000000000000
+      internalID: -9035801214588542502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_19
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 4224
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202eb2470f5c9e660800000000000000
+      internalID: 7415675897974088194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8b749f470416950800000000000000
+      internalID: 6440499813259131061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_21
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3168
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f949cb451e01fa0800000000000000
+      internalID: -5831913763387433092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_22
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 3168
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df82cbea7408495b0800000000000000
+      internalID: -5362520210928817923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_23
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 3168
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de2a11083ba890a0800000000000000
+      internalID: -6874556574156050736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_24
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 3168
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65ab2b9de3340c0800000000000000
+      internalID: -4592758090260392264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d6360ebfd51c740800000000000000
+      internalID: 5170517183580826908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_26
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2112
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb0479fd752c5e60800000000000000
+      internalID: 7952272265015725038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_27
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2112
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41650827f1b820e40800000000000000
+      internalID: 5621208252093060628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_28
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 2112
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b15f0850794da0800000000000000
+      internalID: -5960109108331694286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_29
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 2112
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2ee8af133aaf80800000000000000
+      internalID: -8094601169173861797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a6ef36f8a5f920800000000000000
+      internalID: 3023508500436656634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_31
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1056
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37301352a1bcb04f0800000000000000
+      internalID: -861371590557760653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_32
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 1056
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e942aadfa8893f0800000000000000
+      internalID: -893811703947157915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_33
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 1056
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f6f73860757860800000000000000
+      internalID: 7527045945137492065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_34
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 1056
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dceaf487de9e3e0800000000000000
+      internalID: -2023825456537613021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b98733ff9887b10800000000000000
+      internalID: 1979483765402540811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_36
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 0
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a529414c896d380800000000000000
+      internalID: -8946795641798763904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guard_large_mort_37
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 0
+        width: 1479
+        height: 1056
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca3be8152aae590800000000000000
+      internalID: -7644118946337805086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
