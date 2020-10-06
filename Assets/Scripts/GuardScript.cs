@@ -12,6 +12,8 @@ public class GuardScript : MonoBehaviour
     [SerializeField] float moveSpeed;
 
     [SerializeField] Animator anim;
+    [SerializeField] private bool homeDestination;
+    [SerializeField] private Transform PointInHous;
 
     public void Start() {
         rb = GetComponent<Rigidbody2D>();
@@ -48,6 +50,11 @@ public class GuardScript : MonoBehaviour
                 Axis = 1;
             }
         } else {
+            if(homeDestination) {
+                transform.SetParent(PointInHous);
+                transform.position = PointInHous.position;
+                actionType = GuardionActionType.move;
+            }
             Axis = 0;
             Idle();
             anim.SetBool("Move",false);
@@ -107,5 +114,6 @@ public enum GuardionActionType{
     idle,
     move,
     attac,
+    done,
     none
 }

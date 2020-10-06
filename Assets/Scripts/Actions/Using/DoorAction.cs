@@ -12,12 +12,12 @@ public class DoorAction : BaseUsableAction
     public bool isMainRoom;
     public override void Run()
     {
-        if (objectToHide.active == true)
+        if(objectToHide != null)
         {
             objectToHide.SetActive(false);
         }
 
-        if (objectToShow.active == false)
+        if(objectToShow != null)
         {
             objectToShow.SetActive(true);
         }
