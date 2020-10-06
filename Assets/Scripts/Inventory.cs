@@ -13,6 +13,7 @@ public class Inventory : MonoBehaviour
 
     public void Awake()
     {
+        CellUpdate();
         Instance = this;
     }
 
@@ -49,12 +50,15 @@ public class Inventory : MonoBehaviour
         foreach (var cell in Cells)
         {
             cell.sprite = null;
+            cell.enabled = false;
         }
 
         for (var i = 0; i < Items.Count; i++)
         {
             Cells[i].sprite = Items[i].Sprite;
             Cells[i].SetNativeSize();
+            Cells[i].enabled = true;
+
         }
     }
 }

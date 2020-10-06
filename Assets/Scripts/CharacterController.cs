@@ -22,7 +22,7 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private Collider2D collider;
 
     [SerializeField] private ActionType state;
-    
+
 
     public void Awake()
     {
@@ -54,9 +54,9 @@ public class CharacterController : MonoBehaviour
         {
             case ActionType.none:
                 anim.SetBool("walk", axis != 0);
-                
+
                 SetDirection(Input.GetAxis("Horizontal"));
-                
+
                 anim.SetFloat("walkSpeed", Math.Abs(axis) * moveSpeed / 2.75f);
 
                 if (!Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.D))
@@ -67,33 +67,32 @@ public class CharacterController : MonoBehaviour
 
                 if (Input.GetKeyDown(KeyCode.R))
                     GunShot();
-                
+
                 if (Input.GetKeyUp(KeyCode.T))
                 {
                     SubtitlesController.Instance.Show(Loc.Get("projector_needs_battery_and_lens"));
                 }
 
-                if(Input.GetKeyDown(KeyCode.C))
+                if (Input.GetKeyDown(KeyCode.C))
                     StartClimb();
 
-
-                    break;
+                break;
             case ActionType.action:
                 axis = 0;
                 break;
 
             case ActionType.climb:
 
-                if(Input.GetKey(KeyCode.W))
+                if (Input.GetKey(KeyCode.W))
                     Climb(ClimbState.climbUp);
 
-                if(Input.GetKey(KeyCode.S))
+                if (Input.GetKey(KeyCode.S))
                     Climb(ClimbState.climbDown);
 
-                if(!Input.GetKey(KeyCode.W) && !Input.GetKey(KeyCode.S))
+                if (!Input.GetKey(KeyCode.W) && !Input.GetKey(KeyCode.S))
                     Climb(ClimbState.wait);
 
-                if(Input.GetKeyDown(KeyCode.C))
+                if (Input.GetKeyDown(KeyCode.C))
                     EndClimb();
 
                 break;
@@ -116,29 +115,33 @@ public class CharacterController : MonoBehaviour
             spriteTransform.rotation = Quaternion.Euler(0, flip ? 180 : 0, 0);
         }
     }
-    public void StartClimb() {
+
+    private void StartClimb()
+    {
         state = ActionType.climb;
         anim.SetTrigger("StartClimb");
         rb.isKinematic = true;
     }
 
-    public void Climb(ClimbState state) {
-        if(state == ClimbState.climbUp)
+    private void Climb(ClimbState state)
+    {
+        if (state == ClimbState.climbUp)
             climbAxis = 1;
-            
-        if(state == ClimbState.wait)
+
+        if (state == ClimbState.wait)
             climbAxis = 0;
 
-        if(state == ClimbState.climbDown)
+        if (state == ClimbState.climbDown)
             climbAxis = -1;
 
-        anim.SetFloat("ClimbAxis",climbAxis * 2);
+        anim.SetFloat("ClimbAxis", climbAxis * 2);
 
 
-        rb.MovePosition(new Vector3(transform.position.x,transform.position.y + climbAxis * Time.deltaTime));
+        rb.MovePosition(new Vector3(transform.position.x, transform.position.y + climbAxis * Time.deltaTime));
     }
 
-    public void EndClimb() {
+    public void EndClimb()
+    {
         state = ActionType.none;
         anim.SetTrigger("EndClimb");
         rb.isKinematic = false;
@@ -146,15 +149,18 @@ public class CharacterController : MonoBehaviour
 
     private void GunShot()
     {
-        StartCoroutine(Delay(2f));
-        anim.SetTrigger("GunShot");
-        var rayCastOffsetPoint = new Vector3(0.5f * lastDirection, 0.4f, 0);
-        var hit = Physics2D.Raycast(transform.position + rayCastOffsetPoint,transform.right, 5f);
-        Debug.DrawRay(transform.position,transform.right);
-        
-        hit.transform.GetComponent<GuardScript>()?.StartCoroutine("Dead");
-        
-        Debug.Log(hit.transform.name);
+        if (Inventory.Instance.RemoveItem(ItemType.gun))
+        {
+            StartCoroutine(Delay(2f));
+            anim.SetTrigger("GunShot");
+            var rayCastOffsetPoint = new Vector3(0.5f * lastDirection, 0.4f, 0);
+            var hit = Physics2D.Raycast(transform.position + rayCastOffsetPoint, transform.right, 5f);
+            Debug.DrawRay(transform.position, transform.right);
+
+            hit.transform.GetComponent<GuardScript>()?.StartCoroutine("Dead");
+
+            Debug.Log(hit.transform.name);
+        }
     }
 
     private void Use()
@@ -192,7 +198,7 @@ public class CharacterController : MonoBehaviour
         yield return new WaitForSeconds(delayTime);
 
         item.GetComponent<BaseUsableAction>()?.Run();
-        
+
         state = ActionType.none;
     }
 }
@@ -204,7 +210,8 @@ public enum ActionType
     climb
 }
 
-public enum ClimbState {
+public enum ClimbState
+{
     climbUp,
     climbDown,
     wait
