@@ -57,6 +57,12 @@ public class GuardScript : MonoBehaviour
 
     }
 
+    public void Attack() {
+        Left();
+        anim.SetTrigger("Attack");
+        actionType = GuardionActionType.attac;
+    }
+
     public void Left() {
         transform.rotation = Quaternion.Euler(0,0,0);
     }
@@ -89,10 +95,6 @@ public class GuardScript : MonoBehaviour
 
     }
 
-    public void Attack() {
-        actionType = GuardionActionType.attac;
-        
-    }
     
     IEnumerator DelayAttack() {
         anim.SetTrigger("Attack");

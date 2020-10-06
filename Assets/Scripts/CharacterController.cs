@@ -24,6 +24,8 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private ActionType state;
 
 
+    public LayerMask RaycastLayer;
+
     public void Awake()
     {
         Instance = this;
@@ -40,6 +42,7 @@ public class CharacterController : MonoBehaviour
     private void Update()
     {
         InputUpdate();
+        //Debug.DrawRay(transform.position + offset,transform.right);
     }
 
     private void FixedUpdate()
@@ -97,6 +100,7 @@ public class CharacterController : MonoBehaviour
 
                 break;
         }
+     
     }
 
     private void Move()
@@ -153,8 +157,8 @@ public class CharacterController : MonoBehaviour
         {
             StartCoroutine(Delay(2f));
             anim.SetTrigger("GunShot");
-            var rayCastOffsetPoint = new Vector3(0.5f * lastDirection, 0.4f, 0);
-            var hit = Physics2D.Raycast(transform.position + rayCastOffsetPoint, transform.right, 5f);
+            var rayCastOffsetPoint = new Vector3(-0.5f, 0.4f, 0);
+            var hit = Physics2D.Raycast(transform.position + rayCastOffsetPoint, -transform.right,5f, RaycastLayer);
             Debug.DrawRay(transform.position, transform.right);
 
             hit.transform.GetComponent<GuardScript>()?.StartCoroutine("Dead");
