@@ -806,8 +806,14 @@ MonoBehaviour:
     Type: 4
   - Sprite: {fileID: 21300000, guid: d20436fbd50b5784e9281c16af8180df, type: 3}
     Type: 2
-  - Sprite: {fileID: 0}
-    Type: 0
+  - Sprite: {fileID: 21300000, guid: 06cf1541a62d475488aa965ee2b9fcfd, type: 3}
+    Type: 5
+  - Sprite: {fileID: 21300000, guid: 4462ea85098d4ac40a4eb27868c22db7, type: 3}
+    Type: 6
+  - Sprite: {fileID: 21300000, guid: 92f2b30750e1cbe4ba9fa77d7e8783dc, type: 3}
+    Type: 7
+  - Sprite: {fileID: 21300000, guid: 29f79d9f25064074281d2ae66b515dfb, type: 3}
+    Type: 8
   Items: []
   Cells:
   - {fileID: 8042177821237472316}
