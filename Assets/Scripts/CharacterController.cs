@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class CharacterController : MonoBehaviour
 {
@@ -23,6 +24,7 @@ public class CharacterController : MonoBehaviour
 
     [SerializeField] private ActionType state;
 
+    public static event UnityAction Shot;
 
     public LayerMask RaycastLayer;
 
@@ -163,6 +165,7 @@ public class CharacterController : MonoBehaviour
 
             hit.transform.GetComponent<GuardScript>()?.StartCoroutine("Dead");
 
+            Shot?.Invoke();
             Debug.Log(hit.transform.name);
         }
     }

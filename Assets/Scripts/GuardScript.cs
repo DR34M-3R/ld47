@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class GuardScript : MonoBehaviour
 {
@@ -14,6 +15,8 @@ public class GuardScript : MonoBehaviour
     [SerializeField] Animator anim;
     [SerializeField] private bool homeDestination;
     [SerializeField] private Transform PointInHous;
+
+    public static event UnityAction DestroyWall;
 
     public void Start() {
         rb = GetComponent<Rigidbody2D>();
@@ -65,9 +68,8 @@ public class GuardScript : MonoBehaviour
     }
 
     public void Attack() {
-        Left();
-        anim.SetTrigger("Attack");
-        actionType = GuardionActionType.attac;
+        
+        StartCoroutine(DelayAttack());
     }
 
     public void Left() {
@@ -102,11 +104,23 @@ public class GuardScript : MonoBehaviour
 
     }
 
-    
-    IEnumerator DelayAttack() {
-        anim.SetTrigger("Attack");
-        yield return new WaitForSeconds(2f);
 
+    IEnumerator DelayAttack() {
+        if(PlayerPrefs.GetInt("LittleGuardInHome") == 1) {
+            actionType = GuardionActionType.attac;
+            Right();
+            anim.SetTrigger("Attack");
+            yield return new WaitForSeconds(2f);
+            DestroyWall?.Invoke();
+            PlayerPrefs.SetInt("LittleGuardInHome",3);
+            }
+
+    }
+
+    public void GoHome() {
+        transform.position = PointInHous.transform.position;
+        transform.SetParent(PointInHous);
+        PlayerPrefs.SetInt("LittleGuardInHome",1);
     }
 }
 

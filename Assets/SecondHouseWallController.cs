@@ -11,6 +11,10 @@ public class SecondHouseWallController : MonoBehaviour
         
     }
 
+    private void OnEnable() {
+        GuardScript.DestroyWall += Action;
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -20,6 +24,12 @@ public class SecondHouseWallController : MonoBehaviour
             {
                 part.AddComponent<Rigidbody2D>().velocity = Vector2.left * (10 * (Random.value - 0.5f));
             }
+        }
+    }
+
+    private void Action() {
+        foreach(var part in parts) {
+            part.AddComponent<Rigidbody2D>().velocity = Vector2.left * (10 * (Random.value - 0.5f));
         }
     }
 }
