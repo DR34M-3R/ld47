@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 959151974818506167}
   - component: {fileID: 959151974818506160}
   - component: {fileID: 959151974818506161}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: LittleGuard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 12
   m_Sprite: {fileID: -9220000337123479928, guid: 49945973b0d6cfc42ab2b6a3cfd5655f,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -161,3 +161,5 @@ MonoBehaviour:
   Axis: 0
   moveSpeed: 0
   anim: {fileID: 0}
+  homeDestination: 0
+  PointInHous: {fileID: 0}
